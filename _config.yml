@@ -23,9 +23,9 @@ email: admin@rebateto.me
 description: >- # this means to ignore newlines until "baseurl:"
   作为新手入门加密货币的完全新手教学指南，本站收集了数字货币、加密货币交易所、手续费折扣、交易所返佣、出入金安全、防黑钱、钱包、矿池、DeFi、NFT、DAO、Layer2、Layer3、智能合约、区块链、Web3、元宇宙、AI、GameFi、SocialFi、Meme币等相关的学习资料和教程，帮助你更好地了解和学习如何交易加密货币。
     
-domain: awesome-crypto-tutorial.github.io
+domain: rebateto-me.github.io
 baseurl: "" # for user/org site, leave empty. For project site, use "/repo-name"
-url: "https://awesome-crypto-tutorial.github.io" # the base hostname & protocol
+url: "https://rebateto-me.github.io" # the base hostname & protocol
 twitter_username: RebateTo_Me
 github_username:  rebateto-me
 
