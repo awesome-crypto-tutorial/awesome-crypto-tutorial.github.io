@@ -29,11 +29,52 @@ url: "https://awesome-crypto-tutorial.github.io" # the base hostname & protocol
 twitter_username: RebateTo_Me
 github_username:  awesome-crypto-tutorial
 
+# SEO相关配置
+lang: zh-CN
+locale: zh_CN
+timezone: Asia/Shanghai
+
+# 社交媒体配置
+social:
+  name: 返给我 RebateTo.Me
+  links:
+    - https://github.com/rebateto-me
+    - https://x.com/rebateto_me
+    - https://t.me/rebateto_me
+    - https://www.youtube.com/@rebatetome
+
+# 关键词
+keywords:
+  - 加密货币
+  - 数字货币
+  - 比特币
+  - 以太坊
+  - 交易所注册
+  - 新用户注册
+  - 注册
+  - 币安
+  - Binance
+  - 欧易
+  - OKX
+  - Gate.io
+  - Gate
+  - 返佣
+  - 手续费
+  - 新手教程
+  - 区块链
+  - Web3
+
+# 分析工具配置
+google_analytics: G-8GYKS14V22 # 请替换为你的Google Analytics ID
+google_site_verification: "--X2byTXa2SsM8qy9R-dQa08FKibiW27Iq2_cbxtLh8" # 请替换为Google Search Console验证码
+bing_site_verification: # 请替换为Bing Webmaster Tools验证码
+baidu_site_verification: # 请替换为百度站长工具验证
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Ensure correct time handling and publish behavior
 timezone: Asia/Shanghai

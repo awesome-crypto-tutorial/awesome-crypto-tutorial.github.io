@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: {{ site.url }}/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_site/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_posts/
+Disallow: /_config.yml
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
+
+# Allow important pages
+Allow: /
+Allow: /faq/
+Allow: /tags/
+Allow: /about/

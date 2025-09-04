@@ -2,6 +2,7 @@
 layout: default
 title: 标签索引
 permalink: /tags/
+description: 加密货币教程标签索引，按标签分类浏览所有文章，包括交易所注册、下载、返佣、安全等教程。
 ---
 
 <h1>标签索引</h1>

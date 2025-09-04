@@ -1,0 +1,54 @@
+<style>
+  .sidebar {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 1.5rem;
+    height: fit-content;
+    position: sticky;
+    top: 2rem;
+  }
+
+  .sidebar h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #333;
+    font-size: 1.2rem;
+    border-bottom: 2px solid #007cba;
+    padding-bottom: 0.5rem;
+  }
+
+  .tag-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .tag-item {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+
+  .tag-list a {
+    color: #007cba;
+    text-decoration: none;
+    font-size: 0.9rem;
+    display: block;
+    padding: 0.3rem 0.5rem;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+
+  .tag-list a:hover {
+    background-color: #e9ecef;
+    text-decoration: underline;
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .sidebar {
+      position: static;
+    }
+  }
+</style>
