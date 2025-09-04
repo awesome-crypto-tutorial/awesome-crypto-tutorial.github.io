@@ -8,6 +8,12 @@ layout: default
     {% if site.description %}
     <p class="page-description">{{ site.description }}</p>
     {% endif %}
+    <nav class="top-nav" aria-label="Top Navigation">
+      {% assign faq_page = site.pages | where: 'permalink', '/faq/' | first %}
+      <a class="nav-link" href="{{ '/faq/' | relative_url }}"
+        >{{ faq_page.title | default: 'FAQ' }}</a
+      >
+    </nav>
   </header>
 
   <main class="page-content" aria-label="Content">
@@ -106,3 +112,12 @@ layout: default
     </div>
   </main>
 </div>
+
+<style>
+  .top-nav {
+    margin-top: 0.5rem;
+  }
+  .top-nav .nav-link {
+    margin-right: 1rem;
+  }
+</style>
