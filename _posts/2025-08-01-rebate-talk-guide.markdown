@@ -29,9 +29,9 @@ permalink: /rebate-talk-guide/
 
 #### 三步拿到返佣
 1) 通过交易所App填写推荐人邀请码 `fangeiwo` 注册或直接点击如下网址注册。
-   - 币安 Binance：<https://www.binance.com/join?ref=fangeiwo>
-   - 欧易 OKX：前往 <https://www.okx.com/join/fangeiwo>
-   - Gate.io：前往 <https://www.gate.io/signup/fangeiwo>
+   - 币安 Binance：<https://rebateto.me/invite_links/binance>
+   - 欧易 OKX：前往 <https://rebateto.me/invite_links/okx>
+   - Gate.io：前往 <https://rebateto.me/invite_links/gateio>
 
 2) 在返佣服务平台`返给我`<https://rebateto.me>注册返佣账号，并绑定你的交易所 UID。
 
@@ -42,10 +42,10 @@ permalink: /rebate-talk-guide/
 - 结算频率：是否按日（T+0）自动结算、可查历史。
 - 规则差异：返佣比例、时效以各平台实际为准。
 
-小提示：为了确保能够拿到手续费折扣与返佣，请在App注册时使用邀请码 `fangeiwo` 或通过对应入口注册（专属邀请链接已自动带码；APP 注册请手动填写邀请码）：
-- 币安 Binance：<https://www.binance.com/join?ref=fangeiwo>
-- 欧易 OKX：<https://www.okx.com/join/fangeiwo>
-- Gate.io：<https://www.gate.io/signup/fangeiwo>
+小提示：为了确保能够拿到手续费折扣与返佣，请在App注册时使用邀请码 `fangeiwo` 或通过对应入口注册（专属邀请链接已自动带邀请码；APP 注册请手动填写邀请码）：
+- 币安 Binance：<https://rebateto.me/invite_links/binance>
+- 欧易 OKX：<https://rebateto.me/invite_links/okx>
+- Gate.io：<https://rebateto.me/invite_links/gateio>
 
 ### 为什么不建议找“个人返佣”？
 核心在“透明与稳定”。官方数据对接、可核对的返佣明细、明确的结算与提现路径，让成本更可控。反之，非官方或手工对账容易出现结算频率不稳定、明细不清等问题，少返、拖着不返，前期返后期删微信跑路等典型的情况层出不穷。
@@ -67,8 +67,8 @@ permalink: /rebate-talk-guide/
 
 ### 延伸阅读
 - RebateTo.me（返给我）官方说明：<https://rebateto.me>
- - 币安 Binance 邀请注册链接：<https://www.binance.com/join?ref=fangeiwo>
- - 欧易 OKX 注册入口：<https://www.okx.com/join/fangeiwo>
- - Gate.io 注册入口：<https://www.gate.io/signup/fangeiwo>
+ - 币安 Binance 邀请注册链接：<https://rebateto.me/invite_links/binance>
+ - 欧易 OKX 注册入口：<https://rebateto.me/invite_links/okx>
+ - Gate.io 注册入口：<https://rebateto.me/invite_links/gateio>
 
 

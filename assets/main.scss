@@ -4,6 +4,44 @@
 
 /* Custom overrides */
 
+/* Post page headings */
+.post-title, .post h1, .post h2 {
+  color: #1a1a1a;
+}
+
+.post h1 {
+  font-size: 2rem; /* default ~32px */
+  line-height: 1.25;
+  margin: 1.2rem 0 0.8rem;
+}
+
+.post h2 {
+  font-size: 1.5rem; /* default ~24px */
+  line-height: 1.3;
+  margin: 1rem 0 0.6rem;
+}
+
+.post .page-title {
+  color: #111111;
+}
+
+/* CTA under post title */
+.cta-invite {
+  border: 1px solid #e5e7eb;
+  background: #f9fafb;
+  padding: 0.9rem 1rem;
+  border-radius: 8px;
+  margin: 0.5rem 0 1.25rem;
+}
+.cta-invite .cta-title {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  color: #111827;
+}
+.cta-invite .cta-desc { margin: 0.25rem 0 0.5rem; }
+.cta-invite .cta-links { margin: 0.25rem 0 0.5rem; padding-left: 1rem; }
+.cta-invite code { background: #eef2f7; padding: 0 0.25rem; border-radius: 4px; }
+
 .layout-grid {
   display: flex;
   gap: 2rem;

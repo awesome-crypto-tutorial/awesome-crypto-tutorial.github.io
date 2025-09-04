@@ -35,7 +35,7 @@ permalink: /binance-fee-discount-trap/
 ### 四、如何合规获取返佣（降低实际成本）
 遵循以下路径更稳妥：
 
-1) 使用“专属邀请链接”注册，或在 App 内填写邀请码`fangeiwo`（"返给我"的拼音，该专属链接通常已自动带码，App 内需手填）。
+1) 使用“专属邀请链接”注册，或在 App 内填写邀请码`fangeiwo`（"返给我"的拼音，该专属链接通常已自动带邀请码，App 内需手填）。
 
 2) 在最大的聚合返佣服务平台 `返给我` <https://rebateto.me> 注册账户，并按规则绑定你的交易所 UID
 
@@ -51,11 +51,11 @@ permalink: /binance-fee-discount-trap/
 RebateTo.me（返给我）提供多交易所聚合返佣的交付样例：对账透明、按日结算、提现路径明确。你可以把它当作“如何合规拿返佣”的参考案例来学习流程与要点。
 
 - 官网：<https://rebateto.me>
-- 币安注册示例（专属邀请链接）：<https://www.binance.com/join?ref=fangeiwo>, APP邀请码 `fangeiwo`(”返给我”的拼音)
-- 欧易OKX注册示例（专属邀请链接）：<https://www.okx.com/join/fangeiwo>, APP邀请码 `fangeiwo`(”返给我”的拼音)
-- Gate.io注册示例（专属邀请链接）：<https://www.gate.io/signup/fangeiwo>, APP邀请码 `fangeiwo`(”返给我”的拼音)
+- 币安注册示例（专属邀请链接）：<https://rebateto.me/invite_links/binance>, APP邀请码 `fangeiwo`(”返给我”的拼音)
+- 欧易OKX注册示例（专属邀请链接）：<https://rebateto.me/invite_links/okx>, APP邀请码 `fangeiwo`(”返给我”的拼音)
+- Gate.io注册示例（专属邀请链接）：<https://rebateto.me/invite_links/gateio>, APP邀请码 `fangeiwo`(”返给我”的拼音)
 
-提示：使用专属邀请链接通常已自动带码；在 App 内注册时务必手动填写邀请码。
+提示：使用专属邀请链接通常已自动带邀请码；在 App 内注册时务必手动填写邀请码。
 
 ### 六、常见问答（FAQ）
 - 问：我看到有人说还能给我“手续费直减”，是真的吗？
@@ -69,6 +69,6 @@ RebateTo.me（返给我）提供多交易所聚合返佣的交付样例：对账
 政策变化之后，真正能降低你实际成本的，不再是所谓“官方折扣”，而是代理商基于规则的返佣。选择有“可验证对账、明确结算与提现、稳定交付通道”的方案，远比听信“手续费直减”口号更重要。
 
 参考链接：
-- 币安专属邀请链接（学习示例）：<https://www.binance.com/join?ref=fangeiwo>
+- 币安专属邀请链接（学习示例）：<https://rebateto.me/invite_links/binance>
 
 
