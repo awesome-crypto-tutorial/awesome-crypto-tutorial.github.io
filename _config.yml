@@ -1,0 +1,75 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: 新手入门加密货币完全指南
+email: admin@rebateto.me
+description: >- # this means to ignore newlines until "baseurl:"
+  作为新手入门加密货币的完全新手教学指南，本站收集了数字货币、加密货币交易所、手续费折扣、交易所返佣、出入金安全、防黑钱、钱包、矿池、DeFi、NFT、DAO、Layer2、Layer3、智能合约、区块链、Web3、元宇宙、AI、GameFi、SocialFi、Meme币等相关的学习资料和教程，帮助你更好地了解和学习如何交易加密货币。
+    
+domain: awesome-crypto-tutorial.github.io
+baseurl: "" # for user/org site, leave empty. For project site, use "/repo-name"
+url: "https://awesome-crypto-tutorial.github.io" # the base hostname & protocol
+twitter_username: RebateTo_Me
+github_username:  rebateto-me
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Ensure correct time handling and publish behavior
+timezone: Asia/Shanghai
+future: true
+
+# Social links (fill in to enable rendering in sidebar/footer)
+minima:
+  social_links:
+    - title: Github 
+      icon: github
+      url: "https://github.com/rebateto-me"
+    - title: Twitter
+      icon: twitter
+      url: "https://x.com/rebateto_me"
+    - title: Telegram
+      icon: telegram
+      url: "https://t.me/rebateto_me"
+    - title: YouTube
+      icon: youtube
+      url: "https://www.youtube.com/@rebatetome"
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

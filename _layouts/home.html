@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="home">
+  <header class="page-header">
+    <h1 class="page-title">{{ site.title }}</h1>
+    {% if site.description %}
+    <p class="page-description">{{ site.description }}</p>
+    {% endif %}
+  </header>
+
+  <main class="page-content" aria-label="Content">
+    <div class="layout-grid">
+      <div class="content">
+        {{ content }}
+
+        <h2>最新文章</h2>
+        <ul class="post-list">
+          {% for post in site.posts %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+            <h3 class="post-title">
+              <a class="post-link" href="{{ post.url | relative_url }}"
+                >{{ post.title }}</a
+              >
+            </h3>
+            {% if post.excerpt %}
+            <p class="post-excerpt">
+              {{ post.excerpt | strip_html | truncate: 120 }}
+            </p>
+            {% endif %}
+          </li>
+          {% else %}
+          <li>暂无文章，稍后再来看看。</li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <aside class="sidebar" aria-label="Tag Navigation">
+        <h2>标签</h2>
+        {% assign _tag_items = '' %} {% for tag in site.tags %} {% assign
+        tag_name = tag[0] %} {% assign tag_posts = tag[1] %} {% assign tag_count
+        = tag_posts | size %} {% capture padded_count %}{{ '0000' | append:
+        tag_count }}{% endcapture %} {% capture padded_count %}{{ padded_count |
+        slice: -4, 4 }}{% endcapture %} {% capture tag_item %}{{ padded_count
+        }}#{{ tag_name }}{% endcapture %} {% capture _tag_items %}{{ _tag_items
+        }}{{ tag_item }}|{% endcapture %} {% endfor %} {% assign tag_list =
+        _tag_items | split: '|' | sort | reverse %}
+        <ul class="tag-list">
+          {% for item in tag_list %} {% unless item == '' %} {% assign parts =
+          item | split: '#' %} {% assign tag_count = parts[0] | plus: 0 %} {%
+          assign tag_name = parts[1] %}
+          <li>
+            <a href="{{ '/tags/#' | append: tag_name | relative_url }}"
+              >{{ tag_name }}</a
+            >
+            ({{ tag_count }})
+          </li>
+          {% endunless %} {% endfor %}
+        </ul>
+      </aside>
+    </div>
+  </main>
+</div>
