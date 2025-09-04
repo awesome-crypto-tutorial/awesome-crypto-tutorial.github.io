@@ -13,12 +13,14 @@ layout: default
   <main class="page-content" aria-label="Content">
     <div class="layout-grid">
       <div class="content">
-        {{ content }}
+        {% include title_filter.html %} {{ content }}
 
         <h2>最新文章</h2>
-        <ul class="post-list">
-          {% for post in site.posts %}
-          <li>
+        <ul id="post-list" class="post-list">
+          {% if paginator %} {% assign posts_page = paginator.posts %} {% else
+          %} {% assign posts_page = site.posts %} {% endif %} {% for post in
+          posts_page %}
+          <li class="post-item" data-title="{{ post.title }}">
             <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
             <h3 class="post-title">
               <a class="post-link" href="{{ post.url | relative_url }}"
@@ -35,6 +37,47 @@ layout: default
           <li>暂无文章，稍后再来看看。</li>
           {% endfor %}
         </ul>
+
+        {% if paginator and paginator.total_pages > 1 %}
+        <nav class="pagination" role="navigation" aria-label="Pagination">
+          <span class="page-info"
+            >第 {{ paginator.page }} / {{ paginator.total_pages }} 页</span
+          >
+          <div class="page-links">
+            {% if paginator.previous_page %} {% if paginator.previous_page == 1
+            %}
+            <a class="page-link prev" href="{{ '/' | relative_url }}"
+              >« 上一页</a
+            >
+            {% else %}
+            <a
+              class="page-link prev"
+              href="{{ '/page' | append: paginator.previous_page | relative_url }}"
+              >« 上一页</a
+            >
+            {% endif %} {% endif %} {% for page_num in
+            (1..paginator.total_pages) %} {% if page_num == paginator.page %}
+            <span class="page-link current">{{ page_num }}</span>
+            {% elsif page_num == 1 %}
+            <a class="page-link" href="{{ '/' | relative_url }}"
+              >{{ page_num }}</a
+            >
+            {% else %}
+            <a
+              class="page-link"
+              href="{{ '/page' | append: page_num | relative_url }}"
+              >{{ page_num }}</a
+            >
+            {% endif %} {% endfor %} {% if paginator.next_page %}
+            <a
+              class="page-link next"
+              href="{{ '/page' | append: paginator.next_page | relative_url }}"
+              >下一页 »</a
+            >
+            {% endif %}
+          </div>
+        </nav>
+        {% endif %}
       </div>
 
       <aside class="sidebar" aria-label="Tag Navigation">

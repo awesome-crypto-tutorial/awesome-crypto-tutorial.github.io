@@ -1,0 +1,86 @@
+<div class="title-filter">
+  <input
+    id="title-filter-input"
+    type="text"
+    placeholder="按标题过滤…（全站）"
+    aria-label="按标题过滤"
+  />
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var input = document.getElementById("title-filter-input");
+    var list = document.getElementById("post-list");
+    if (!input) return;
+
+    var indexUrl = "{{ '/search.json' | relative_url }}";
+    var allItems = [];
+    var items = [];
+    if (list) {
+      items = Array.prototype.slice.call(list.querySelectorAll("li.post-item"));
+    }
+
+    function renderList(results) {
+      if (!list) return;
+      list.innerHTML = results
+        .map(function (it) {
+          return (
+            '<li class="post-item" data-title="' +
+            (it.title || "") +
+            '"><h3 class="post-title"><a class="post-link" href="' +
+            it.url +
+            '">' +
+            (it.title || "") +
+            "</a></h3></li>"
+          );
+        })
+        .join("");
+    }
+
+    function filterAndRender(q) {
+      var query = (q || "").trim().toLowerCase();
+      var source = allItems.length
+        ? allItems
+        : items.map(function (li) {
+            return {
+              title: li.getAttribute("data-title") || "",
+              url: li.querySelector("a.post-link").getAttribute("href"),
+            };
+          });
+      var results = !query
+        ? source
+        : source.filter(function (it) {
+            return (it.title || "").toLowerCase().indexOf(query) !== -1;
+          });
+      renderList(results);
+    }
+
+    fetch(indexUrl)
+      .then(function (r) {
+        return r.json();
+      })
+      .then(function (json) {
+        allItems = (json || []).map(function (x) {
+          return { title: x.title, url: x.url };
+        });
+      })
+      .catch(function () {
+        // 忽略错误，保留当前页过滤能力
+      });
+
+    input.addEventListener("input", function () {
+      filterAndRender(input.value);
+    });
+  });
+</script>
+
+<style>
+  .title-filter {
+    margin: 0 0 1rem;
+  }
+  #title-filter-input {
+    width: 100%;
+    padding: 0.4rem 0.6rem;
+    box-sizing: border-box;
+  }
+</style>

@@ -33,10 +33,15 @@ github_username:  awesome-crypto-tutorial
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Ensure correct time handling and publish behavior
 timezone: Asia/Shanghai
 future: true
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num"
 
 # Social links (fill in to enable rendering in sidebar/footer)
 minima:
