@@ -13,6 +13,7 @@ permalink: /rebate-talk-guide/
 
 没错，页面上常这么写。但这个数字容易让人低估成本。尤其做合约、开高杠杆、频率高的时候，手续费对本金的影响会被“放大”。
 
+
 ### 为什么容易被低估？
 - 杠杆放大了“名义成交量”，哪怕费率不变，费用在本金里的占比也会上升。
 - 高频交易叠加多次开平，费用积累更快。
@@ -27,14 +28,24 @@ permalink: /rebate-talk-guide/
 有一部分手续费可以通过“官方返佣规则”合规拿回：
 
 #### 三步拿到返佣
-1) 通过交易所“邀请链接/邀请码”注册（网页用邀请链接，APP 填邀请码）。
-2) 在返佣服务平台注册，并在规定时间内绑定你的交易所 UID。
-3) 交易后按规则返还一部分手续费，降低“返后有效费率”。
+1) 通过交易所App填写推荐人邀请码 `fangeiwo` 注册或直接点击如下网址注册。
+   - 币安 Binance：<https://www.binance.com/join?ref=fangeiwo>
+   - 欧易 OKX：前往 <https://www.okx.com/join/fangeiwo>
+   - Gate.io：前往 <https://www.gate.io/signup/fangeiwo>
+
+2) 在返佣服务平台`返给我`<https://rebateto.me>注册返佣账号，并绑定你的交易所 UID。
+
+3) 交易后按规则从`返给我`领取手续费返还，降低“返后有效费率”。
 
 #### 避坑提醒
 - 对账透明：能否提供与交易所一致的明细与计算口径。
 - 结算频率：是否按日（T+0）自动结算、可查历史。
 - 规则差异：返佣比例、时效以各平台实际为准。
+
+小提示：为了确保能够拿到手续费折扣与返佣，请在App注册时使用邀请码 `fangeiwo` 或通过对应入口注册（专属邀请链接已自动带码；APP 注册请手动填写邀请码）：
+- 币安 Binance：<https://www.binance.com/join?ref=fangeiwo>
+- 欧易 OKX：<https://www.okx.com/join/fangeiwo>
+- Gate.io：<https://www.gate.io/signup/fangeiwo>
 
 ### 为什么不建议找“个人返佣”？
 核心在“透明与稳定”。官方数据对接、可核对的返佣明细、明确的结算与提现路径，让成本更可控。反之，非官方或手工对账容易出现结算频率不稳定、明细不清等问题，少返、拖着不返，前期返后期删微信跑路等典型的情况层出不穷。
@@ -47,6 +58,7 @@ permalink: /rebate-talk-guide/
 - 若返佣比例按 60% 估算（以实际为准），返还 ≈ 120 USDT。
 - 一次交易返后净费用 ≈ 80 USDT，有效费率 ≈ 0.02%。
 
+
 你可以把自己的费率/成交量/返佣比例代入，快速估算“返后有效费率”。
 如果当天交易3次，手续费可返还120 x 3 = 360 USDT，达到本金的9%
 
@@ -55,5 +67,8 @@ permalink: /rebate-talk-guide/
 
 ### 延伸阅读
 - RebateTo.me（返给我）官方说明：<https://rebateto.me>
+ - 币安 Binance 邀请注册链接：<https://www.binance.com/join?ref=fangeiwo>
+ - 欧易 OKX 注册入口：<https://www.okx.com/join/fangeiwo>
+ - Gate.io 注册入口：<https://www.gate.io/signup/fangeiwo>
 
 
