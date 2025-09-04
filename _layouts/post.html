@@ -2,19 +2,54 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <header class="post-header">
-    <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
-    <p class="post-meta">
-      <time
-        datetime="{{ page.date | date_to_xmlschema }}"
-        itemprop="datePublished"
-      >
-        {{ page.date | date: "%Y-%m-%d" }}
-      </time>
-    </p>
-    {% include cta_invite.html %}
-  </header>
+{% include tag_sidebar_styles.html %}
 
-  <div class="post-content" itemprop="articleBody">{{ content }}</div>
-</article>
+<div class="post-layout">
+  <main class="post-main">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      <header class="post-header">
+        <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+        <p class="post-meta">
+          <time
+            datetime="{{ page.date | date_to_xmlschema }}"
+            itemprop="datePublished"
+          >
+            {{ page.date | date: "%Y-%m-%d" }}
+          </time>
+        </p>
+        {% include cta_invite.html %}
+      </header>
+
+      <div class="post-content" itemprop="articleBody">{{ content }}</div>
+    </article>
+  </main>
+
+  {% include tag_sidebar.html %}
+</div>
+
+<style>
+  .post-layout {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .post-main {
+    min-width: 0; /* 防止内容溢出 */
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .post-layout {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .sidebar {
+      order: -1;
+    }
+  }
+</style>
