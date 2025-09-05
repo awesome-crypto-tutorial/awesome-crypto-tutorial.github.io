@@ -8,14 +8,13 @@ description: 币圈新手入门常见问题FAQ，包含交易所注册、下载�
 这是一份给完全新手看的“超简版”学习目录。每一节只讲关键点，能立刻上手，避免常见坑。你可以按顺序学，也可以只看自己关心的部分。以下按“常见场景/问题”分板块。
 
 ## A. 选交易所与可用性（先选门，再择路）
-- 购买虚拟货币违法吗？
-- 我该用哪个交易所？哪个交易所适合中国用户？
-- 为啥我币安、欧易、Gate.io等交易所网站进不去？
-- 为啥应用商店搜不到交易所 App？
-- 这个下载链接靠谱吗？怎么判断是不是官网？
-- 我手机为什么打不开下载链接？
-- 不同交易所有啥本质区别（产品、费用、支持币种）？
-- 在国内网/国际网访问交易所有啥要注意的？
+- [购买虚拟货币违法吗？](/cryptocurrency-legal-status-china/)
+- [我该用哪个交易所？哪个交易所适合中国用户？](/how-to-choose-crypto-exchange/)
+- [为啥我币安、欧易、Gate.io等交易所网站进不去？](/crypto-exchange-access-issues/)
+- [为啥应用商店搜不到交易所 App？](/app-store-crypto-apps-issue/)
+- [我手机为什么打不开下载链接？](/mobile-access-issues/)
+- [不同交易所有啥本质区别（产品、费用、支持币种）？](/crypto-exchange-differences/)
+- [在国内网/国际网访问交易所有啥要注意的？](/network-access-considerations/)
 - [如何注册币安交易所？](/how-to-register-binance/)
 - [如何下载币安Binance交易所APP？](/how-to-download-binance/)
 - [如何注册欧易OKX交易所？](/how-to-register-okx/)
