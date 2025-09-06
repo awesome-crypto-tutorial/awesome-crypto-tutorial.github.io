@@ -1,0 +1,52 @@
+/* 自定义导航栏样式 */
+.site-header {
+  border-top: 3px solid #007cba;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.site-title {
+  font-weight: 600;
+  color: #007cba !important;
+}
+
+.site-title:hover {
+  color: #005a8b !important;
+}
+
+.site-nav .page-link {
+  color: #333;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.site-nav .page-link:hover {
+  color: #007cba;
+  text-decoration: none;
+}
+
+/* 移动端导航优化 */
+@media screen and (max-width: 600px) {
+  .site-nav .page-link {
+    display: block;
+    padding: 8px 0;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  
+  .site-nav .page-link:last-child {
+    border-bottom: none;
+  }
+}
+
+/* 当前页面高亮 */
+.site-nav .page-link.current {
+  color: #007cba;
+  font-weight: 600;
+}
+
+/* 汉堡菜单图标优化 */
+.nav-trigger:checked ~ .trigger {
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  padding: 10px;
+  margin-top: 10px;
+}

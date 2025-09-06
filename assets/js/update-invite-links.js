@@ -27,7 +27,7 @@ async function updateInviteLinks() {
             });
             if (!response.ok) {
                 console.warn(`Failed to fetch ${jsonUrl}: ${response.status}`);
-                return;
+                continue;
             }
 
             const data = await response.json();

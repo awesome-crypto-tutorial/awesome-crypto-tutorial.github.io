@@ -21,7 +21,7 @@
 title: 新手入门加密货币完全指南
 email: admin@rebateto.me
 description: >- # this means to ignore newlines until "baseurl:"
-  作为新手入门加密货币的完全新手教学指南，本站收集了数字货币、加密货币交易所、手续费折扣、交易所返佣、出入金安全、防黑钱、钱包、矿池、DeFi、NFT、DAO、Layer2、Layer3、智能合约、区块链、Web3、元宇宙、AI、GameFi、SocialFi、Meme币等相关的学习资料和教程，帮助你更好地了解和学习如何交易加密货币。
+  作为新手入门加密货币的完全新手教学指南，本站收集了数字货币、加密货币交易所、手续费折扣、交易所返佣、出入金安全、防黑钱、资金冻结处理、钱包、矿池、DeFi、NFT、DAO、Layer2、Layer3、智能合约、区块链、Web3、元宇宙、AI、GameFi、SocialFi、Meme币等相关的学习资料和教程，帮助你更好地了解和学习如何交易加密货币。
     
 domain: awesome-crypto-tutorial.github.io
 baseurl: "" # for user/org site, leave empty. For project site, use "/repo-name"
@@ -83,6 +83,17 @@ future: true
 # Pagination
 paginate: 10
 paginate_path: "/page:num"
+
+# 控制导航栏显示的页面
+header_pages:
+  - path: about.markdown
+    title: 关于我们
+  - path: faq.markdown
+    title: 交易所入门FAQ
+  - path: asset_security_faq.markdown
+    title: 银行卡出入金
+  - path: tags.md
+    title: 标签
 
 # Social links (fill in to enable rendering in sidebar/footer)
 minima:
