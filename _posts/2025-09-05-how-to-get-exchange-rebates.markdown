@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 新手指南：如何通过交易所获得返佣（含 App 填邀请码与专属链接）
+categories: 新手入门
 date: 2025-09-05
 tags: [返佣, 手续费, 币安, Binance, OKX, 欧易, Gateio, 教程]
 permalink: /how-to-get-exchange-rebates/
+pinned: true
 ---
 
 本文讲清“如何合规拿到交易所返佣”的完整流程，并分别给出币安（Binance）、欧易（OKX）、Gate.io（芝麻开门）的两种注册方式：
