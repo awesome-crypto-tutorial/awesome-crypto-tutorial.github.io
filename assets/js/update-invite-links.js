@@ -3,7 +3,7 @@
  * 查找页面中的邀请链接，通过.json接口获取inner_invite_link并替换
  */
 
-function updateInviteLinks() {
+async function updateInviteLinks() {
     // 定义需要处理的邀请链接模式
     const invitePatterns = [
         'https://rebateto.me/invite_links/binance',
@@ -12,13 +12,19 @@ function updateInviteLinks() {
     ];
 
     // 为每个邀请链接模式处理
-    invitePatterns.forEach(async (baseUrl) => {
+    for (const baseUrl of invitePatterns) {
         try {
             // 构建JSON接口URL
             const jsonUrl = baseUrl + '.json';
 
             // 发送请求获取数据
-            const response = await fetch(jsonUrl, { method: 'GET', mode: 'cors', credentials: 'omit', cache: 'no-store' });
+            const response = await fetch(jsonUrl, {
+                method: 'GET',
+                mode: 'cors',
+                credentials: 'omit',
+                headers: { 'Accept': 'application/json' },
+                cache: 'no-store'
+            });
             if (!response.ok) {
                 console.warn(`Failed to fetch ${jsonUrl}: ${response.status}`);
                 return;
@@ -39,7 +45,7 @@ function updateInviteLinks() {
         } catch (error) {
             console.error(`Error processing ${baseUrl}:`, error);
         }
-    });
+    }
 }
 
 /**
