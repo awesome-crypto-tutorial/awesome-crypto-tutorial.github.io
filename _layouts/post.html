@@ -21,6 +21,12 @@ layout: default
       </header>
 
       <div class="post-content" itemprop="articleBody">{{ content }}</div>
+
+      <!-- 评论区域 -->
+      <div class="post-comments">
+        <h3>评论</h3>
+        {% include utterances.html %}
+      </div>
     </article>
   </main>
 
@@ -39,6 +45,19 @@ layout: default
 
   .post-main {
     min-width: 0; /* 防止内容溢出 */
+  }
+
+  /* 评论区域样式 */
+  .post-comments {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e0e0e0;
+  }
+
+  .post-comments h3 {
+    margin-bottom: 1.5rem;
+    color: #333;
+    font-size: 1.5rem;
   }
 
   /* 响应式设计 */

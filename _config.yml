@@ -43,6 +43,13 @@ social:
     - https://t.me/rebateto_me
     - https://www.youtube.com/@rebatetome
 
+# 评论系统配置 - 使用Utterances (基于GitHub Issues的免费评论系统)
+utterances:
+  repo: awesome-crypto-tutorial/awesome-crypto-tutorial.github.io  # 你的GitHub仓库
+  issue_term: pathname  # 使用路径作为issue标识
+  theme: github-light  # 主题：github-light, github-dark, github-dark-orange, github-dark-blue, github-dark-green, github-dark-purple, github-dark-high-contrast, github-light-high-contrast, preferred-color-scheme
+  label: 💬 评论  # issue标签
+
 # 关键词
 keywords:
   - 加密货币
@@ -91,7 +98,7 @@ header_pages:
   - path: faq.markdown
     title: 交易所入门FAQ
   - path: asset_security_faq.markdown
-    title: 银行卡出入金
+    title: 银行卡出入金FAQ
   - path: tags.md
     title: 标签
 
