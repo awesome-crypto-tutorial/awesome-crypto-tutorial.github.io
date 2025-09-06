@@ -18,7 +18,7 @@ function updateInviteLinks() {
             const jsonUrl = baseUrl + '.json';
 
             // 发送请求获取数据
-            const response = await fetch(jsonUrl);
+            const response = await fetch(jsonUrl, { method: 'GET', mode: 'cors', credentials: 'omit', cache: 'no-store' });
             if (!response.ok) {
                 console.warn(`Failed to fetch ${jsonUrl}: ${response.status}`);
                 return;
