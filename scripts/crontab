@@ -1,3 +1,3 @@
 # 社交媒体自动发布定时任务
 # 每天上午 9:00 执行社交媒体发布任务
-0 9 * * * cd /path/to/awesome-crypto-tutorial.github.io && /usr/bin/ruby scripts/social-media-bot.rb >> logs/social-media-bot.log 2>&1
+0 9 * * * /bin/bash -c "cd /root/awesome-crypto-tutorial.github.io && /usr/local/rvm/rubies/ruby-3.3.0/bin/ruby scripts/social-media-bot.rb >> logs/social-media-bot.log 2>&1"
