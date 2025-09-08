@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "为啥要在交易所填银行卡/微信？会不会把我的钱转走"
+title: 为啥要在交易所填银行卡/微信？会不会把我的钱转走
 categories: 交易入门
 date: 2025-02-02
-tags: [法币, 收款方式, 安全]
-permalink: /why-add-payment-methods/
+tags:
+- 法币
+- 收款方式
+- 安全
+permalink: "/why-add-payment-methods/"
 description: 添加银行卡/微信/支付宝是为了收款，平台看不到你账户余额，钱不会被平台直接划走。
+image: https://images.unsplash.com/photo-1630654802409-6097991a6db3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxjcnlwdG8tZXhjaGFuZ2UtcGF5bWVudC1zZWN1cml0eXxlbnwwfDB8fHwxNzU3MzE5NDM5fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: gold round coin on brown paper
+image_photographer: Kanchanara
+image_photographer_url: https://unsplash.com/@kanchanara
 ---
-
 用大白话说
 你要把 USDT 卖成人民币，对方要给你打钱，就得提前把“收款方式”填好。平台不会动你的银行卡/微信里的钱，它只用来显示收款信息。
 

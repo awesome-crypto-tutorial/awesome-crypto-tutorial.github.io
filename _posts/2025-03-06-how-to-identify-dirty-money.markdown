@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "如何识别黑钱？收到可疑资金怎么处理？"
+title: 如何识别黑钱？收到可疑资金怎么处理？
 categories: 涉诈账户
 date: 2025-03-06
-tags: [黑钱, 识别, 可疑资金, 处理]
-permalink: /how-to-identify-dirty-money/
+tags:
+- 黑钱
+- 识别
+- 可疑资金
+- 处理
+permalink: "/how-to-identify-dirty-money/"
 description: 黑钱识别技巧和可疑资金处理方法，包括识别特征、风险信号、处理流程等关键要素。
+image: https://picsum.photos/seed/suspicious/800/400
+image_alt: 如何识别黑钱？收到可疑资金怎么处理？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 黑钱就是违法犯罪得来的钱，识别黑钱要看交易价格、对方身份、交易方式等。收到可疑资金要立即停止交易，保留证据，主动说明情况。
 

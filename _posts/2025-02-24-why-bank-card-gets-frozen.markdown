@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "为什么银行卡会被冻结？银行和公安冻结有什么区别？"
+title: 为什么银行卡会被冻结？银行和公安冻结有什么区别？
 categories: 银行卡冻结
 date: 2025-02-24
-tags: [银行卡, 冻结, 银行风控, 公安冻结]
-permalink: /why-bank-card-gets-frozen/
+tags:
+- 银行卡
+- 冻结
+- 银行风控
+- 公安冻结
+permalink: "/why-bank-card-gets-frozen/"
 description: 详细解释银行卡冻结的各种原因，银行风控冻结与公安冻结的区别，以及如何避免触发冻结机制。
+image: https://images.unsplash.com/photo-1611078793147-b1a6061f2141?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmcm96ZW4tYmFuay1hY2NvdW50LXJlYXNvbnN8ZW58MHwwfHx8MTc1NzMxOTQ5MHww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: white and red maple leaves
+image_photographer: Semyon Borisov
+image_photographer_url: https://unsplash.com/@devsnice
 ---
-
 用大白话说
 银行卡被冻结主要有两个原因：银行觉得你的交易有问题，或者警察办案需要。银行冻结相对简单，公安冻结比较麻烦，但都有解决办法。
 

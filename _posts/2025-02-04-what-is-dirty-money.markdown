@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "什么是‘黑钱’？怎么避免收到有问题的来款"
+title: 什么是‘黑钱’？怎么避免收到有问题的来款
 categories: 交易入门
 date: 2025-02-04
-tags: [黑钱, 风险, 法币]
-permalink: /what-is-dirty-money/
+tags:
+- 黑钱
+- 风险
+- 法币
+permalink: "/what-is-dirty-money/"
 description: 黑钱是违法来源的资金。只在平台内按规则成交、核验对方真实姓名和来款备注，能显著降低风险。
+image: https://images.unsplash.com/photo-1616196293194-70efbabfe379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxhdm9pZGluZy1ibGFjay1tb25leS1yaXNrfGVufDB8MHx8fDE3NTczMTk0NDR8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: person holding white and black striped textile
+image_photographer: Erik Mclean
+image_photographer_url: https://unsplash.com/@introspectivedsgn
 ---
-
 用大白话说
 “黑钱”就是来路不明、涉及违法的资金。你要做的是只在平台内正规成交，所有转账、沟通都留在平台里，保留证据。
 

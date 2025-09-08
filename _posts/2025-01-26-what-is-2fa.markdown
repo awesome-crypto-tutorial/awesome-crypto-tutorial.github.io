@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "什么是2FA验证器？注册后第一时间做这3件事"
+title: 什么是2FA验证器？注册后第一时间做这3件事
 categories: 注册前须知
 date: 2025-01-26
-tags: [2FA, 验证器, 安全]
-permalink: /what-is-2fa/
+tags:
+- 2FA
+- 验证器
+- 安全
+permalink: "/what-is-2fa/"
 description: 超简版2FA说明：装哪个、怎么备份、还要配哪些安全项。
+image: https://images.unsplash.com/photo-1740908900906-a51032597559?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw0fHx0d28tZmFjdG9yLWF1dGhlbnRpY2F0aW9uLXNlY3VyaXR5fGVufDB8MHx8fDE3NTczMTk0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: A wooden block spelling security on a table
+image_photographer: Markus Winkler
+image_photographer_url: https://unsplash.com/@markuswinkler
 ---
-
 这篇讲清：2FA 是什么、装哪个、注册后立刻做哪3件事最关键。
 
 用大白话说

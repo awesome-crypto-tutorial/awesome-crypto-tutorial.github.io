@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "注册后返佣怎么来的？如何确认自己拿到了？"
+title: 注册后返佣怎么来的？如何确认自己拿到了？
 categories: 注册前须知
 date: 2025-01-25
-tags: [返佣, 手续费, 绑定]
-permalink: /how-rebate-works/
+tags:
+- 返佣
+- 手续费
+- 绑定
+permalink: "/how-rebate-works/"
 description: 极简说明返佣绑定逻辑、核验方法与常见误区。
+image: https://images.unsplash.com/photo-1551645672-2f87cf186fe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw1fHxyZWJhdGUtcmVnaXN0cmF0aW9uLWNvbmZpcm1hdGlvbnxlbnwwfDB8fHwxNzU3MzE5NDIwfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: Rolls Royce emblem
+image_photographer: milan degraeve
+image_photographer_url: https://unsplash.com/@milandegraeve
 ---
-
 这篇讲清：返佣从哪来、注册后如何在“返给我”绑定并确认生效。
 
 用大白话说

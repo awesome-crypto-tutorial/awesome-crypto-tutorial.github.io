@@ -1,12 +1,23 @@
 ---
 layout: post
-title: "欧易OKX交易所APP下载教程：iOS/Android完整指南"
+title: 欧易OKX交易所APP下载教程：iOS/Android完整指南
 categories: 下载教程
 date: 2025-01-15
-tags: [欧易, OKX, 下载教程, APP下载, iOS, Android, 数字货币, 加密货币]
-permalink: /how-to-download-okx/
+tags:
+- 欧易
+- OKX
+- 下载教程
+- APP下载
+- iOS
+- Android
+- 数字货币
+- 加密货币
+permalink: "/how-to-download-okx/"
+image: https://images.unsplash.com/photo-1714623292869-7069655b6f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwyfHxva3gtYXBwLWRvd25sb2FkLWd1aWRlfGVufDB8MHx8fDE3NTczMTkzOTN8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a close up of a cell phone on a table
+image_photographer: BoliviaInteligente
+image_photographer_url: https://unsplash.com/@boliviainteligente
 ---
-
 欧易OKX（原OKEx）是全球领先的数字资产交易平台，本教程将详细介绍如何在iOS和Android设备上下载欧易OKX APP，包括解决中国区App Store无法下载的问题。
 
 ## 下载前准备

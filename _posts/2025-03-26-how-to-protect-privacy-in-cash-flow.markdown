@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "出入金时如何保护个人隐私？"
+title: 出入金时如何保护个人隐私？
 categories: 预防措施
 date: 2025-03-26
-tags: [隐私保护, 出入金, 个人信息, 安全]
-permalink: /how-to-protect-privacy-in-cash-flow/
+tags:
+- 隐私保护
+- 出入金
+- 个人信息
+- 安全
+permalink: "/how-to-protect-privacy-in-cash-flow/"
 description: 出入金时保护个人隐私的方法和技巧，包括信息保护、隐私设置、安全措施等关键信息。
+image: https://picsum.photos/seed/privacypro/800/400
+image_alt: 出入金时如何保护个人隐私？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 出入金时要保护个人隐私，不要泄露真实姓名、地址、电话等敏感信息。使用化名、虚拟地址、临时电话等方式保护隐私，但要确保能正常交易。
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "收到黑钱，需要主动报警吗？"
+title: 收到黑钱，需要主动报警吗？
 categories: 法律风险
 date: 2025-03-25
-tags: [黑钱, 报警, 法律, 处理]
-permalink: /should-report-dirty-money-to-police/
+tags:
+- 黑钱
+- 报警
+- 法律
+- 处理
+permalink: "/should-report-dirty-money-to-police/"
 description: 收到黑钱后是否需要主动报警的详细分析，包括报警的必要性、报警流程、注意事项等关键信息。
+image: https://picsum.photos/seed/reportingb/800/400
+image_alt: 收到黑钱，需要主动报警吗？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 收到黑钱后，如果确定是黑钱，建议主动报警。主动报警能证明自己不知情，避免被认定为洗钱。但要先确认是否真的是黑钱，不要误报。
 

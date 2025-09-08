@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "出入金记录需要保存多久？"
+title: 出入金记录需要保存多久？
 categories: 预防措施
 date: 2025-03-31
-tags: [记录保存, 出入金, 时间, 合规]
-permalink: /how-long-to-keep-cash-flow-records/
+tags:
+- 记录保存
+- 出入金
+- 时间
+- 合规
+permalink: "/how-long-to-keep-cash-flow-records/"
 description: 出入金记录保存时间指南，包括保存期限、保存方式、重要性等关键信息。
+image: https://picsum.photos/seed/financialr/800/400
+image_alt: 出入金记录需要保存多久？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 出入金记录建议保存5年以上，电子记录和纸质记录都要有，定期备份重要记录。这些记录是证明交易合法性的重要证据，遇到问题时能保护自己。记住：记录越完整，保护越有力。
 

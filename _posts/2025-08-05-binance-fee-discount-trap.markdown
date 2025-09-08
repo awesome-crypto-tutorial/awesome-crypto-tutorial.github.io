@@ -2,10 +2,19 @@
 layout: post
 title: 币安手续费“返佣”圈的话术骗局解析
 date: 2025-08-05
-tags: [币安, 手续费, 返佣, 代理商, 防骗, 教程]
-permalink: /binance-fee-discount-trap/
+tags:
+- 币安
+- 手续费
+- 返佣
+- 代理商
+- 防骗
+- 教程
+permalink: "/binance-fee-discount-trap/"
+image: https://picsum.photos/seed/binancefee/800/400
+image_alt: 币安手续费“返佣”圈的话术骗局解析 - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 这篇文章解释 2025-08-01 起币安返佣政策变化带来的影响，并给出防骗提示与合规获取返佣的路径，帮助你避免被“手续费折扣”话术误导。
 
 ### 一、政策发生了什么变化？

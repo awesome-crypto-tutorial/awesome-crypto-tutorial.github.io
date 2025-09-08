@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "银行卡非柜面限制后，还能转账吗？"
+title: 银行卡非柜面限制后，还能转账吗？
 categories: 非柜面限制
 date: 2025-03-05
-tags: [非柜面, 限制, 转账, 银行]
-permalink: /can-transfer-with-non-counter-limit/
+tags:
+- 非柜面
+- 限制
+- 转账
+- 银行
+permalink: "/can-transfer-with-non-counter-limit/"
 description: 银行卡被限制非柜面交易后转账功能详解，包括能否转账、转账方式、限制范围等关键信息。
+image: https://picsum.photos/seed/banktransf/800/400
+image_alt: 银行卡非柜面限制后，还能转账吗？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 银行卡被限制非柜面交易后，网银、手机银行、ATM都不能转账，只能到银行柜台转账。这是银行的风控措施，防止账户被滥用。
 

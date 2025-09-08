@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "出金时银行卡信息填错了怎么办？"
+title: 出金时银行卡信息填错了怎么办？
 categories: 出入金安全
 date: 2025-03-21
-tags: [出金, 银行卡, 信息错误, 处理]
-permalink: /wrong-bank-info-when-cashing-out/
+tags:
+- 出金
+- 银行卡
+- 信息错误
+- 处理
+permalink: "/wrong-bank-info-when-cashing-out/"
 description: 出金时银行卡信息填错后的处理方法，包括应急处理、联系客服、资金找回等关键信息。
+image: https://picsum.photos/seed/bankwithdr/800/400
+image_alt: 出金时银行卡信息填错了怎么办？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 出金时银行卡信息填错了，立即联系交易所客服，说明情况，提供正确信息。大部分情况下资金能找回，但需要时间处理。
 

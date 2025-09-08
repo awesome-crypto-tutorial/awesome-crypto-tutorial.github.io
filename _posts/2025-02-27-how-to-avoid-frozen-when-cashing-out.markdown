@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "加密货币出金到银行卡，如何避免被冻结？"
+title: 加密货币出金到银行卡，如何避免被冻结？
 categories: 出入金安全
 date: 2025-02-27
-tags: [出金, 银行卡, 冻结, 安全]
-permalink: /how-to-avoid-frozen-when-cashing-out/
+tags:
+- 出金
+- 银行卡
+- 冻结
+- 安全
+permalink: "/how-to-avoid-frozen-when-cashing-out/"
 description: 加密货币出金到银行卡的安全操作指南，包括金额控制、时间选择、渠道选择等关键要素，帮助用户避免银行卡被冻结。
+image: https://images.unsplash.com/photo-1649180556628-9ba704115795?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxjcnlwdG8td2l0aGRyYXdhbC1zZWN1cml0eXxlbnwwfDB8fHwxNzU3MzE5NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a white cube with a yellow and blue logo on it
+image_photographer: Rubaitul Azad
+image_photographer_url: https://unsplash.com/@rubaitulazad
 ---
-
 用大白话说
 出金到银行卡要小心，金额别太大，时间要正常，选择靠谱的商家，保留好交易记录。记住：安全第一，赚钱第二。
 

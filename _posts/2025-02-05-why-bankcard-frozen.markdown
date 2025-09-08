@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "银行卡为什么会被冻结？遇到冻结怎么办"
+title: 银行卡为什么会被冻结？遇到冻结怎么办
 categories: 交易入门
 date: 2025-02-05
-tags: [银行卡, 风险, 冻结]
-permalink: /why-bankcard-frozen/
+tags:
+- 银行卡
+- 风险
+- 冻结
+permalink: "/why-bankcard-frozen/"
 description: 冻结多由异常来款触发。只在平台内成交、备注规范、账户干净，可显著降低风险；若被冻结，先配合核验。
+image: https://images.unsplash.com/photo-1482331293298-bf28cb04e2a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmcm96ZW4tYmFuay1hY2NvdW50LXNvbHV0aW9ufGVufDB8MHx8fDE3NTczMTk0NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a crystal ball with some feathers inside of it
+image_photographer: Aaron Burden
+image_photographer_url: https://unsplash.com/@aaronburden
 ---
-
 用大白话说
 出现不明来款、备注乱写、频繁大额进出，都可能引发风控。别慌，先联系银行按要求提供材料。
 

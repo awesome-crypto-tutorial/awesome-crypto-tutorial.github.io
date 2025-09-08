@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "涉诈账户会影响征信吗？"
+title: 涉诈账户会影响征信吗？
 categories: 涉诈账户
 date: 2025-03-19
-tags: [涉诈账户, 征信, 影响, 信用]
-permalink: /fraud-account-affect-credit/
+tags:
+- 涉诈账户
+- 征信
+- 影响
+- 信用
+permalink: "/fraud-account-affect-credit/"
 description: 涉诈账户对个人征信的影响分析，包括影响范围、影响程度、恢复方法等关键信息。
+image: https://picsum.photos/seed/fraudaccou/800/400
+image_alt: 涉诈账户会影响征信吗？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 涉诈账户可能会影响征信，但影响程度取决于具体情况。被误标记影响较小，确实涉诈影响较大。及时处理，证明清白，大多数情况下征信可以恢复。
 

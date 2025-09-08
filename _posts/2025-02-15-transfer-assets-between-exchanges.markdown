@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "我在币安的资产能提到欧易吗？怎么操作最稳"
+title: 我在币安的资产能提到欧易吗？怎么操作最稳
 categories: 充提与划转
 date: 2025-02-15
-tags: [跨所转账, 提币, 充值]
-permalink: /transfer-assets-between-exchanges/
+tags:
+- 跨所转账
+- 提币
+- 充值
+permalink: "/transfer-assets-between-exchanges/"
 description: 可以。用区块链提币：从币安提到欧易的充值地址，网络要选对，标签要填对。
+image: https://images.unsplash.com/photo-1642403711604-3908e90960ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw1fHxjcnlwdG8tZXhjaGFuZ2UtdHJhbnNmZXJ8ZW58MHwwfHx8MTc1NzMxOTQ2OXww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a wallet with bitcoins falling out of it
+image_photographer: Shubham Dhage
+image_photographer_url: https://unsplash.com/@theshubhamdhage
 ---
-
 用大白话说
 不同交易所之间，当然可以相关提币，这里最稳妥的办法是“链上转”：在币安提币 → 填欧易的充值地址 → 等链上确认 → 欧易入账。
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "收到黑钱怎么办？会被认定为洗钱吗？"
+title: 收到黑钱怎么办？会被认定为洗钱吗？
 categories: 涉诈账户
 date: 2025-03-01
-tags: [黑钱, 洗钱, 涉案资金, 处理]
-permalink: /what-if-receive-dirty-money/
+tags:
+- 黑钱
+- 洗钱
+- 涉案资金
+- 处理
+permalink: "/what-if-receive-dirty-money/"
 description: 收到黑钱后的应急处理指南，包括如何识别黑钱、处理流程、法律风险以及如何证明自己不是洗钱。
+image: https://images.unsplash.com/photo-1530767083184-5b59bbb26065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxtb25leS1sYXVuZGVyaW5nLXByZXZlbnRpb24tZ3VpZGV8ZW58MHwwfHx8MTc1NzMxOTUwNHww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: clothes hanged on rope
+image_photographer: Erik Witsoe
+image_photographer_url: https://unsplash.com/@ewitsoe
 ---
-
 用大白话说
 收到黑钱不要慌，立即停止交易，保留所有记录，主动联系银行和公安机关说明情况。只要证明自己不知情且没有参与洗钱，一般不会有事。
 

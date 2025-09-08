@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "如何建立安全的出入金习惯？"
+title: 如何建立安全的出入金习惯？
 categories: 预防措施
 date: 2025-04-01
-tags: [安全习惯, 出入金, 预防, 最佳实践]
-permalink: /how-to-build-safe-cash-flow-habits/
+tags:
+- 安全习惯
+- 出入金
+- 预防
+- 最佳实践
+permalink: "/how-to-build-safe-cash-flow-habits/"
 description: 建立安全出入金习惯的指南，包括日常操作规范、风险控制、最佳实践等。
+image: https://picsum.photos/seed/securefund/800/400
+image_alt: 如何建立安全的出入金习惯？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 建立安全的出入金习惯很重要，包括选择正规平台、控制交易金额、保留交易记录、定期检查账户等。好习惯能避免大部分风险，保护资金安全。记住：习惯决定安全，细节决定成败。
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "银行卡被冻结了怎么办？需要等多久才能解冻？"
+title: 银行卡被冻结了怎么办？需要等多久才能解冻？
 categories: 银行卡冻结
 date: 2025-02-23
-tags: [银行卡, 冻结, 解冻, 风控]
-permalink: /bank-card-frozen-what-to-do/
+tags:
+- 银行卡
+- 冻结
+- 解冻
+- 风控
+permalink: "/bank-card-frozen-what-to-do/"
 description: 银行卡被冻结后的应急处理步骤，解冻时间预期，以及如何配合银行调查快速恢复账户使用。
+image: https://images.unsplash.com/photo-1664490697404-5c84e8829f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmcm96ZW4tYmFuay1jYXJkLXNvbHV0aW9ufGVufDB8MHx8fDE3NTczMTk0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a black rectangular object with white text
+image_photographer: Jonathan Borba
+image_photographer_url: https://unsplash.com/@jonathanborba
 ---
-
 用大白话说
 银行卡被冻结不要慌，先搞清楚是银行风控还是公安冻结，然后按步骤配合调查。大部分情况下1-7天能解冻，复杂情况可能需要1-3个月。
 

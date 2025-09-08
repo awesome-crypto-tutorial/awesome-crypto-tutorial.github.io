@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "如何证明自己不是涉诈？需要什么材料？"
+title: 如何证明自己不是涉诈？需要什么材料？
 categories: 涉诈账户
 date: 2025-03-20
-tags: [涉诈, 证明, 材料, 清白]
-permalink: /how-to-prove-not-fraud/
+tags:
+- 涉诈
+- 证明
+- 材料
+- 清白
+permalink: "/how-to-prove-not-fraud/"
 description: 如何证明自己不是涉诈的详细指南，包括所需材料、证明方法、申请流程等关键信息。
+image: https://picsum.photos/seed/fraudproof/800/400
+image_alt: 如何证明自己不是涉诈？需要什么材料？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 证明自己不是涉诈需要提供身份证明、交易记录、资金来源证明等材料，详细说明交易情况，配合调查。最重要的是保留完整的交易记录和聊天记录。
 

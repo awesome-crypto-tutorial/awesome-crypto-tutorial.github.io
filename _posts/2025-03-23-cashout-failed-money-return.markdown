@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "出金失败，资金会退回交易所吗？"
+title: 出金失败，资金会退回交易所吗？
 categories: 出入金安全
 date: 2025-03-23
-tags: [出金, 失败, 资金退回, 交易所]
-permalink: /cashout-failed-money-return/
+tags:
+- 出金
+- 失败
+- 资金退回
+- 交易所
+permalink: "/cashout-failed-money-return/"
 description: 出金失败后资金退回交易所的情况分析，包括退回条件、退回时间、处理流程等关键信息。
+image: https://picsum.photos/seed/failedwith/800/400
+image_alt: 出金失败，资金会退回交易所吗？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 出金失败后，资金通常会退回交易所，但需要时间处理。具体时间取决于失败原因，一般1-7个工作日能退回。要联系客服确认退回状态。
 

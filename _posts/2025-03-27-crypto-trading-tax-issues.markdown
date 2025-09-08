@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "税务问题：加密货币交易需要交税吗？"
+title: 税务问题：加密货币交易需要交税吗？
 categories: 法律风险
 date: 2025-03-27
-tags: [税务, 加密货币, 法律, 合规]
-permalink: /crypto-trading-tax-issues/
+tags:
+- 税务
+- 加密货币
+- 法律
+- 合规
+permalink: "/crypto-trading-tax-issues/"
 description: 加密货币交易的税务问题解答，包括是否需要交税、如何计算税额、税务申报等关键信息。
+image: https://picsum.photos/seed/cryptocurr/800/400
+image_alt: 税务问题：加密货币交易需要交税吗？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 加密货币交易目前在国内没有明确的税务规定，但建议保留交易记录。如果未来有税务要求，有记录总比没记录好。记住：合规第一，避税第二。
 

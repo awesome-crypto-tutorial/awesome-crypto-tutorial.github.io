@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "交易所要求提供资金来源证明，怎么办？"
+title: 交易所要求提供资金来源证明，怎么办？
 categories: 交易所风控
 date: 2025-03-24
-tags: [交易所, 资金来源, 证明, 风控]
-permalink: /exchange-asks-source-of-funds/
+tags:
+- 交易所
+- 资金来源
+- 证明
+- 风控
+permalink: "/exchange-asks-source-of-funds/"
 description: 交易所要求提供资金来源证明的处理方法，包括所需材料、提供方式、注意事项等关键信息。
+image: https://picsum.photos/seed/sourceoffu/800/400
+image_alt: 交易所要求提供资金来源证明，怎么办？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 交易所要求提供资金来源证明是正常的风控措施，需要提供收入证明、银行流水、交易记录等材料。如实提供，配合调查，大多数情况下都能通过审核。
 

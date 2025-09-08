@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "银行卡冻结期间，还能正常生活消费吗？"
+title: 银行卡冻结期间，还能正常生活消费吗？
 categories: 银行卡冻结
 date: 2025-03-14
-tags: [银行卡, 冻结, 生活消费, 影响]
-permalink: /daily-life-with-frozen-card/
+tags:
+- 银行卡
+- 冻结
+- 生活消费
+- 影响
+permalink: "/daily-life-with-frozen-card/"
 description: 银行卡冻结期间对日常生活消费的影响分析，包括消费方式、替代方案、生活安排等关键信息。
+image: https://picsum.photos/seed/frozenbank/800/400
+image_alt: 银行卡冻结期间，还能正常生活消费吗？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 银行卡被冻结后，网银、手机银行、ATM都不能用，但可以用现金、其他银行卡、信用卡、移动支付等方式正常生活消费。
 

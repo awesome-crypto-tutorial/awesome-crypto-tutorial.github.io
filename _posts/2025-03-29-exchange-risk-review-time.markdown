@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "交易所风控审核需要多长时间？"
+title: 交易所风控审核需要多长时间？
 categories: 交易所风控
 date: 2025-03-29
-tags: [风控, 审核, 时间, 交易所]
-permalink: /exchange-risk-review-time/
+tags:
+- 风控
+- 审核
+- 时间
+- 交易所
+permalink: "/exchange-risk-review-time/"
 description: 交易所风控审核时间说明，包括不同类型审核的时间预期、影响因素、如何加快审核等。
+image: https://picsum.photos/seed/exchangeri/800/400
+image_alt: 交易所风控审核需要多长时间？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 交易所风控审核时间不固定，一般1-7个工作日，复杂情况可能需要1-4周。提供完整材料、主动联系客服、保持耐心等待。记住：审核时间取决于材料完整性和问题复杂度。
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "注册入口怎么选？避免一开始就踩钓鱼站"
+title: 注册入口怎么选？避免一开始就踩钓鱼站
 categories: 注册前须知
 date: 2025-01-27
-tags: [安全, 钓鱼, 域名, 证书]
-permalink: /before-register-safety/
+tags:
+- 安全
+- 钓鱼
+- 域名
+- 证书
+permalink: "/before-register-safety/"
 description: 三步法判断“是不是官网入口”，配上极简避坑清单。
+image: https://images.unsplash.com/photo-1592791770401-7a0cb5ee279b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxzZWN1cmUtcmVnaXN0cmF0aW9uLWF2b2lkLXBoaXNoaW5nfGVufDB8MHx8fDE3NTczMTk0MjV8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: red padlock on gray wire
+image_photographer: Jack T
+image_photographer_url: https://unsplash.com/@blankest
 ---
-
 这篇讲清：去哪注册最安全，如何3步识别官网入口，避免钓鱼站。
 
 用大白话说

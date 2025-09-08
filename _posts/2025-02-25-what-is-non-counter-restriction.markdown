@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "银行卡被限制非柜面交易是什么意思？"
+title: 银行卡被限制非柜面交易是什么意思？
 categories: 非柜面限制
 date: 2025-02-25
-tags: [非柜面, 限制, 银行卡, 风控]
-permalink: /what-is-non-counter-restriction/
+tags:
+- 非柜面
+- 限制
+- 银行卡
+- 风控
+permalink: "/what-is-non-counter-restriction/"
 description: 详细解释银行卡非柜面交易限制的含义，限制的原因和影响，以及如何恢复正常使用。
+image: https://images.unsplash.com/photo-1673837552454-9ec933815419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxiYW5rLWNhcmQtdHJhbnNhY3Rpb24tcmVzdHJpY3Rpb258ZW58MHwwfHx8MTc1NzMxOTQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a hand holding a green card next to a calculator
+image_photographer: Thriday
+image_photographer_url: https://unsplash.com/@thriday
 ---
-
 用大白话说
 非柜面限制就是银行不让你在网上、ATM、手机银行等地方操作，只能到银行柜台办理业务。这是银行的风控措施，防止账户被滥用。
 

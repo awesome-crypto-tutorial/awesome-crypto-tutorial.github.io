@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "建立多个银行账户分散风险，可行吗？"
+title: 建立多个银行账户分散风险，可行吗？
 categories: 预防措施
 date: 2025-03-12
-tags: [银行账户, 分散风险, 多账户, 管理]
-permalink: /multiple-bank-accounts-for-risk-diversion/
+tags:
+- 银行账户
+- 分散风险
+- 多账户
+- 管理
+permalink: "/multiple-bank-accounts-for-risk-diversion/"
 description: 建立多个银行账户分散风险的可行性分析，包括优势、劣势、管理方法、注意事项等。
+image: https://picsum.photos/seed/multipleba/800/400
+image_alt: 建立多个银行账户分散风险，可行吗？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 建立多个银行账户分散风险是可行的，但要注意管理成本和法律合规。选择不同银行，分散资金，定期检查，大多数情况下都能有效降低风险。
 

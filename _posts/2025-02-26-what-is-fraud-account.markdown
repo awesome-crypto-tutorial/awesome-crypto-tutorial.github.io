@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "什么是涉诈账户？如何避免成为涉诈账户？"
+title: 什么是涉诈账户？如何避免成为涉诈账户？
 categories: 涉诈账户
 date: 2025-02-26
-tags: [涉诈账户, 黑钱, 洗钱, 风险]
-permalink: /what-is-fraud-account/
+tags:
+- 涉诈账户
+- 黑钱
+- 洗钱
+- 风险
+permalink: "/what-is-fraud-account/"
 description: 详细解释什么是涉诈账户，涉诈账户的认定标准，以及如何避免自己的账户被标记为涉诈账户。
+image: https://images.unsplash.com/photo-1705234384403-5884534a3178?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw1fHxmcmF1ZHVsZW50LWFjY291bnQtcHJldmVudGlvbnxlbnwwfDB8fHwxNzU3MzE5NDk2fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: scrabbled scrabbled scrabbled scrabbled
+image_photographer: Markus Winkler
+image_photographer_url: https://unsplash.com/@markuswinkler
 ---
-
 用大白话说
 涉诈账户就是被银行或执法部门认为可能涉及诈骗、洗钱等违法活动的银行账户。一旦被标记，账户会被冻结，影响正常使用。
 

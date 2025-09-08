@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "涉诈账户被冻结，如何证明清白？"
+title: 涉诈账户被冻结，如何证明清白？
 categories: 紧急情况处理
 date: 2025-04-03
-tags: [涉诈账户, 证明清白, 冻结, 处理]
-permalink: /how-to-prove-innocence-fraud-account/
+tags:
+- 涉诈账户
+- 证明清白
+- 冻结
+- 处理
+permalink: "/how-to-prove-innocence-fraud-account/"
 description: 涉诈账户被冻结后证明清白的方法，包括证据收集、处理流程、注意事项等。
+image: https://picsum.photos/seed/frozenacco/800/400
+image_alt: 涉诈账户被冻结，如何证明清白？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 涉诈账户被冻结不要慌，立即停止交易，收集证据证明清白。关键是要证明自己不知情、没有参与、没有获利。配合调查，提供完整证据，大多数情况下都能证明清白。记住：清白不怕调查，证据证明一切。
 

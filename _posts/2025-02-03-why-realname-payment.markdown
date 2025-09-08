@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "为啥一定要实名收款？商家为什么可以不用自己的卡"
+title: 为啥一定要实名收款？商家为什么可以不用自己的卡
 categories: 交易入门
 date: 2025-02-03
-tags: [实名, 风险, 法币]
-permalink: /why-realname-payment/
+tags:
+- 实名
+- 风险
+- 法币
+permalink: "/why-realname-payment/"
 description: 你要用“本人实名账户”收钱，便于核验与追责；商家可用对公或多账户收款，但需在平台合规登记。
+image: https://images.unsplash.com/photo-1648161235886-32b6764917e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwxfHx2ZXJpZmllZC1wYXltZW50LXNlY3VyaXR5fGVufDB8MHx8fDE3NTczMTk0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a close up of a visa card on a table
+image_photographer: David Dias
+image_photographer_url: https://unsplash.com/@thedaviddias
 ---
-
 用大白话说
 你收钱用“自己的实名账户”，出了问题能说明来龙去脉；商家可能是公司或多名员工，所以不一定是同一张卡，但需要在平台做合规登记。
 

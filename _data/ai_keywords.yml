@@ -1,0 +1,451 @@
+---
+cryptocurrency-legal-status-china:
+  ai_keyword: cryptocurrency-regulation-china
+  ai_keyword_simple: cryptocurrency-regulation
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 虚拟货币在中国合法吗？简单告诉你答案
+how-to-download-binance:
+  ai_keyword: binance-app-download-guide
+  ai_keyword_simple: binance-app
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 币安Binance交易所APP下载教程：iOS/Android完整指南
+how-to-download-gateio:
+  ai_keyword: gate-io-app-download
+  ai_keyword_simple: gate-io
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: Gate.io芝麻交易所APP下载教程：iOS/Android完整指南
+how-to-download-okx:
+  ai_keyword: okx-app-download-guide
+  ai_keyword_simple: okx-app
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 欧易OKX交易所APP下载教程：iOS/Android完整指南
+how-to-register-binance:
+  ai_keyword: binance-registration-tutorial
+  ai_keyword_simple: binance-registration
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 币安交易所注册教程：5分钟完成注册，新手必看
+how-to-register-gateio:
+  ai_keyword: gateio-registration-tutorial
+  ai_keyword_simple: gateio-registration
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: Gate.io芝麻交易所注册教程：完整流程指南，新手必看
+how-to-register-okx:
+  ai_keyword: okx-exchange-registration-tutorial
+  ai_keyword_simple: okx-exchange
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 欧易OKX交易所注册教程：详细步骤图解，新手友好
+how-to-choose-crypto-exchange:
+  ai_keyword: cryptocurrency-exchange-comparison
+  ai_keyword_simple: cryptocurrency-exchange
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 新手该选哪个交易所？币安、欧易、Gate.io简单对比
+crypto-exchange-access-issues:
+  ai_keyword: crypto-exchange-access-blocked
+  ai_keyword_simple: crypto-exchange
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 为什么打不开币安、欧易、Gate.io的网站？简单解决方法
+app-store-crypto-apps-issue:
+  ai_keyword: cryptocurrency-exchange-app-download
+  ai_keyword_simple: cryptocurrency-exchange
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 为什么应用商店搜不到加密货币交易所APP？完整解决方案
+mobile-access-issues:
+  ai_keyword: mobile-exchange-download-fix
+  ai_keyword_simple: mobile-exchange
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 手机无法打开交易所下载链接？简单解决方法
+crypto-exchange-differences:
+  ai_keyword: cryptocurrency-exchange-comparison
+  ai_keyword_simple: cryptocurrency-exchange
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 不同交易所有什么本质区别？产品、费用、支持币种全面对比
+network-access-considerations:
+  ai_keyword: secure-exchange-access
+  ai_keyword_simple: secure-exchange
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 在国内网/国际网访问交易所有什么要注意的？网络访问安全指南
+why-invite-code:
+  ai_keyword: referral-code-registration
+  ai_keyword_simple: referral-code
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 注册前为什么一定要写邀请码？一文看懂
+what-is-kyc:
+  ai_keyword: kyc-verification-process
+  ai_keyword_simple: kyc-verification
+  fallback_keyword: identity-verification-security
+  title: 什么是实名（KYC）？为什么必须做人脸和证件？
+how-rebate-works:
+  ai_keyword: rebate-registration-confirmation
+  ai_keyword_simple: rebate-registration
+  fallback_keyword: cashback-rebate-money
+  title: 注册后返佣怎么来的？如何确认自己拿到了？
+what-is-2fa:
+  ai_keyword: two-factor-authentication-security
+  ai_keyword_simple: two-factor
+  fallback_keyword: two-factor-authentication
+  title: 什么是2FA验证器？注册后第一时间做这3件事
+before-register-safety:
+  ai_keyword: secure-registration-avoid-phishing
+  ai_keyword_simple: secure-registration
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 注册入口怎么选？避免一开始就踩钓鱼站
+cashout-to-fiat:
+  ai_keyword: usdt-to-rmb-conversion
+  ai_keyword_simple: usdt-to
+  fallback_keyword: stablecoin-cryptocurrency
+  title: 赚到的钱怎么变成人民币？一步步教你
+what-is-usdt:
+  ai_keyword: usdt-stablecoin-trading
+  ai_keyword_simple: usdt-stablecoin
+  fallback_keyword: stablecoin-cryptocurrency
+  title: 什么是 USDT？为什么大多数人都先买它
+spot-margin-futures-basics:
+  ai_keyword: crypto-trading-basics
+  ai_keyword_simple: crypto-trading
+  fallback_keyword: cryptocurrency-blockchain
+  title: 现货、杠杆、合约，一次说清区别
+market-vs-limit-orders:
+  ai_keyword: market-limit-orders
+  ai_keyword_simple: market-limit
+  fallback_keyword: cryptocurrency-blockchain
+  title: 市价单和限价单：什么时候用哪个
+futures-leverage-liquidation:
+  ai_keyword: leverage-liquidation-risk
+  ai_keyword_simple: leverage-liquidation
+  fallback_keyword: cryptocurrency-blockchain
+  title: 合约里的杠杆和强平，风险在哪
+why-add-payment-methods:
+  ai_keyword: crypto-exchange-payment-security
+  ai_keyword_simple: crypto-exchange
+  fallback_keyword: stablecoin-cryptocurrency
+  title: 为啥要在交易所填银行卡/微信？会不会把我的钱转走
+why-realname-payment:
+  ai_keyword: verified-payment-security
+  ai_keyword_simple: verified-payment
+  fallback_keyword: stablecoin-cryptocurrency
+  title: 为啥一定要实名收款？商家为什么可以不用自己的卡
+what-is-dirty-money:
+  ai_keyword: avoiding-black-money-risk
+  ai_keyword_simple: avoiding-black
+  fallback_keyword: cryptocurrency-blockchain
+  title: 什么是‘黑钱’？怎么避免收到有问题的来款
+why-bankcard-frozen:
+  ai_keyword: frozen-bank-account-solution
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡为什么会被冻结？遇到冻结怎么办
+how-to-avoid-frozen:
+  ai_keyword: bank-card-freeze-prevention
+  ai_keyword_simple: bank-card
+  fallback_keyword: cryptocurrency-blockchain
+  title: 怎么避免银行卡被冻？这几条照做就行
+wrong-deposit:
+  ai_keyword: wrong-usdt-transfer-solution
+  ai_keyword_simple: wrong-usdt
+  fallback_keyword: stablecoin-cryptocurrency
+  title: 转账转错账号/金额了怎么办（买入USDT时）
+released-before-paid:
+  ai_keyword: payment-release-risk
+  ai_keyword_simple: payment-release
+  fallback_keyword: cryptocurrency-blockchain
+  title: 没收到钱就点了放行，怎么办
+do-exchanges-close-weekends:
+  ai_keyword: crypto-exchange-trading-hours
+  ai_keyword_simple: crypto-exchange
+  fallback_keyword: cryptocurrency-blockchain
+  title: 交易所周末休息吗？什么时候不能交易
+fees-why-high-how-to-save:
+  ai_keyword: trading-fee-reduction
+  ai_keyword_simple: trading-fee
+  fallback_keyword: cashback-rebate-money
+  title: 为啥手续费比想象中高？怎么把它降下来
+fee-formula-maker-taker:
+  ai_keyword: maker-taker-fee-explained
+  ai_keyword_simple: maker-taker
+  fallback_keyword: cryptocurrency-blockchain
+  title: 手续费怎么算？挂单/吃单有什么区别
+effective-fee-with-rebate:
+  ai_keyword: effective-fee-rate-calculation
+  ai_keyword_simple: effective-fee
+  fallback_keyword: cashback-rebate-money
+  title: 有效费率=名义费率-返佣比例（举例）
+trap-extra-discount-claims:
+  ai_keyword: fee-rebate-trap
+  ai_keyword_simple: fee-rebate
+  fallback_keyword: cryptocurrency-blockchain
+  title: 陷阱：有人说还能再直减10%/20%，靠谱吗？
+transparent-delivery:
+  ai_keyword: transparent-payment-settlement
+  ai_keyword_simple: transparent-payment
+  fallback_keyword: cryptocurrency-blockchain
+  title: 透明交付：对账、结算、提现，怎么才算靠谱
+transfer-assets-between-exchanges:
+  ai_keyword: crypto-exchange-transfer
+  ai_keyword_simple: crypto-exchange
+  fallback_keyword: cryptocurrency-blockchain
+  title: 我在币安的资产能提到欧易吗？怎么操作最稳
+internal-vs-chain-withdrawal:
+  ai_keyword: exchange-transfer-vs-blockchain
+  ai_keyword_simple: exchange-transfer
+  fallback_keyword: cryptocurrency-blockchain
+  title: 交易所内部转账或支付和区块链转账有什么区别
+why-network-fee:
+  ai_keyword: blockchain-transaction-fees
+  ai_keyword_simple: blockchain-transaction
+  fallback_keyword: cryptocurrency-blockchain
+  title: 区块链提币为什么有手续费（矿工费）
+how-to-choose-network:
+  ai_keyword: cryptocurrency-withdrawal-network
+  ai_keyword_simple: cryptocurrency-withdrawal
+  fallback_keyword: stablecoin-cryptocurrency
+  title: 选哪个网络提币？简单决策法
+deposit-not-arrived:
+  ai_keyword: cryptocurrency-deposit-troubleshooting
+  ai_keyword_simple: cryptocurrency-deposit
+  fallback_keyword: cryptocurrency-blockchain
+  title: 充值没到怎么办？从这几步排查
+what-is-web3-wallet:
+  ai_keyword: web3-wallet-security-backup
+  ai_keyword_simple: web3-wallet
+  fallback_keyword: cryptocurrency-blockchain
+  title: 什么是 web3 钱包 / 冷钱包 / 助记词
+scam-extra-discount:
+  ai_keyword: scam-alert-rebate
+  ai_keyword_simple: scam-alert
+  fallback_keyword: cashback-rebate-money
+  title: 骗局警示：‘还能官方直减10%/20%’，别信
+suspicious-usdt-zero:
+  ai_keyword: fake-usdt-scam
+  ai_keyword_simple: fake-usdt
+  fallback_keyword: stablecoin-cryptocurrency
+  title: 收到别人转的 USDT，为什么价值是 0？
+bank-card-frozen-what-to-do:
+  ai_keyword: frozen-bank-card-solution
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡被冻结了怎么办？需要等多久才能解冻？
+why-bank-card-gets-frozen:
+  ai_keyword: frozen-bank-account-reasons
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 为什么银行卡会被冻结？银行和公安冻结有什么区别？
+what-is-non-counter-restriction:
+  ai_keyword: bank-card-transaction-restriction
+  ai_keyword_simple: bank-card
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡被限制非柜面交易是什么意思？
+what-is-fraud-account:
+  ai_keyword: fraudulent-account-prevention
+  ai_keyword_simple: fraudulent-account
+  fallback_keyword: cryptocurrency-blockchain
+  title: 什么是涉诈账户？如何避免成为涉诈账户？
+how-to-avoid-frozen-when-cashing-out:
+  ai_keyword: crypto-withdrawal-security
+  ai_keyword_simple: crypto-withdrawal
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 加密货币出金到银行卡，如何避免被冻结？
+can-i-use-money-when-frozen:
+  ai_keyword: frozen-bank-card-access
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡冻结后，里面的钱还能用吗？
+what-if-receive-dirty-money:
+  ai_keyword: money-laundering-prevention-guide
+  ai_keyword_simple: money-laundering
+  fallback_keyword: cryptocurrency-blockchain
+  title: 收到黑钱怎么办？会被认定为洗钱吗？
+safe-timing-amount-for-cashout:
+  ai_keyword: safe-withdrawal-timing
+  ai_keyword_simple: safe-withdrawal
+  fallback_keyword: cryptocurrency-blockchain
+  title: 出金时选择什么时间、什么金额比较安全？
+should-i-contact-bank-when-frozen:
+  ai_keyword: frozen-bank-card-assistance
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡被冻结，需要主动联系银行吗？
+bank-card-unfreeze-process:
+  ai_keyword: bank-card-unfreezing-process
+  ai_keyword_simple: bank-card
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡解冻需要什么材料？流程是怎样的？
+can-transfer-with-non-counter-limit:
+  ai_keyword: bank-transfer-restriction-counter
+  ai_keyword_simple: bank-transfer
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡非柜面限制后，还能转账吗？
+how-to-identify-dirty-money:
+  ai_keyword: suspicious-money-identification
+  ai_keyword_simple: suspicious-money
+  fallback_keyword: cryptocurrency-blockchain
+  title: 如何识别黑钱？收到可疑资金怎么处理？
+should-split-cashout-amounts:
+  ai_keyword: bank-withdrawal-security-strategy
+  ai_keyword_simple: bank-withdrawal
+  fallback_keyword: cryptocurrency-blockchain
+  title: 出金到银行卡，需要分批操作吗？
+is-crypto-trading-illegal:
+  ai_keyword: cryptocurrency-legal-compliance
+  ai_keyword_simple: cryptocurrency-legal
+  fallback_keyword: cryptocurrency-blockchain
+  title: 买卖加密货币违法吗？会被抓吗？
+how-to-choose-safe-cash-methods:
+  ai_keyword: secure-crypto-fiat-exchange
+  ai_keyword_simple: secure-crypto
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 如何选择安全的出入金方式？
+exchange-account-frozen-how-to-unfreeze:
+  ai_keyword: exchange-account-frozen-unfreeze
+  ai_keyword_simple: exchange-account
+  fallback_keyword: cryptocurrency-blockchain
+  title: 交易所账户被冻结，如何申请解冻？
+urgent-money-need-with-frozen-card:
+  ai_keyword: frozen-bank-card-emergency
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡被冻结，急需用钱怎么办？
+multiple-bank-accounts-for-risk-diversion:
+  ai_keyword: multiple-bank-accounts-risk-diversification
+  ai_keyword_simple: multiple-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 建立多个银行账户分散风险，可行吗？
+frozen-card-affect-others:
+  ai_keyword: frozen-bank-card-impact
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡被冻结，会影响其他银行卡吗？
+daily-life-with-frozen-card:
+  ai_keyword: frozen-bank-card-spending
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡冻结期间，还能正常生活消费吗？
+how-to-restore-non-counter-access:
+  ai_keyword: bank-card-restriction-removal
+  ai_keyword_simple: bank-card
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡非柜面限制，如何恢复正常？
+why-bank-restrict-non-counter:
+  ai_keyword: bank-transaction-restriction-compliance
+  ai_keyword_simple: bank-transaction
+  fallback_keyword: cryptocurrency-blockchain
+  title: 为什么银行会限制非柜面交易？
+non-counter-limit-affect-alipay-wechat:
+  ai_keyword: bank-card-restriction-payment
+  ai_keyword_simple: bank-card
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡非柜面限制，影响支付宝微信吗？
+can-fraud-account-be-unblocked:
+  ai_keyword: bank-fraud-account-unblock
+  ai_keyword_simple: bank-fraud
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡被标记为涉诈账户，还能解封吗？
+fraud-account-affect-credit:
+  ai_keyword: fraud-account-credit-impact
+  ai_keyword_simple: fraud-account
+  fallback_keyword: cryptocurrency-blockchain
+  title: 涉诈账户会影响征信吗？
+how-to-prove-not-fraud:
+  ai_keyword: fraud-proof-documents
+  ai_keyword_simple: fraud-proof
+  fallback_keyword: cryptocurrency-blockchain
+  title: 如何证明自己不是涉诈？需要什么材料？
+wrong-bank-info-when-cashing-out:
+  ai_keyword: bank-withdrawal-error-fix
+  ai_keyword_simple: bank-withdrawal
+  fallback_keyword: cryptocurrency-blockchain
+  title: 出金时银行卡信息填错了怎么办？
+normal-cashout-time:
+  ai_keyword: bank-withdrawal-processing-time
+  ai_keyword_simple: bank-withdrawal
+  fallback_keyword: cryptocurrency-blockchain
+  title: 出金到银行卡，多久到账算正常？
+cashout-failed-money-return:
+  ai_keyword: failed-withdrawal-refund
+  ai_keyword_simple: failed-withdrawal
+  fallback_keyword: cryptocurrency-blockchain
+  title: 出金失败，资金会退回交易所吗？
+exchange-asks-source-of-funds:
+  ai_keyword: source-of-funds-proof
+  ai_keyword_simple: source-of
+  fallback_keyword: cryptocurrency-blockchain
+  title: 交易所要求提供资金来源证明，怎么办？
+should-report-dirty-money-to-police:
+  ai_keyword: reporting-black-money
+  ai_keyword_simple: reporting-black
+  fallback_keyword: cryptocurrency-blockchain
+  title: 收到黑钱，需要主动报警吗？
+how-to-protect-privacy-in-cash-flow:
+  ai_keyword: privacy-protection-transaction-security
+  ai_keyword_simple: privacy-protection
+  fallback_keyword: cryptocurrency-blockchain
+  title: 出入金时如何保护个人隐私？
+crypto-trading-tax-issues:
+  ai_keyword: cryptocurrency-tax-compliance
+  ai_keyword_simple: cryptocurrency-tax
+  fallback_keyword: cryptocurrency-blockchain
+  title: 税务问题：加密货币交易需要交税吗？
+exchange-asks-additional-kyc-safe:
+  ai_keyword: kyc-verification-security
+  ai_keyword_simple: kyc-verification
+  fallback_keyword: identity-verification-security
+  title: 交易所要求补充KYC材料，安全吗？
+exchange-risk-review-time:
+  ai_keyword: exchange-risk-control-review
+  ai_keyword_simple: exchange-risk
+  fallback_keyword: identity-verification-security
+  title: 交易所风控审核需要多长时间？
+exchange-trading-restricted-how-to-restore:
+  ai_keyword: exchange-account-restriction-recovery
+  ai_keyword_simple: exchange-account
+  fallback_keyword: identity-verification-security
+  title: 交易所账户被限制交易，如何恢复？
+how-long-to-keep-cash-flow-records:
+  ai_keyword: financial-records-retention-compliance
+  ai_keyword_simple: financial-records
+  fallback_keyword: cryptocurrency-blockchain
+  title: 出入金记录需要保存多久？
+how-to-build-safe-cash-flow-habits:
+  ai_keyword: secure-funds-transfer-habits
+  ai_keyword_simple: secure-funds
+  fallback_keyword: cryptocurrency-blockchain
+  title: 如何建立安全的出入金习惯？
+how-to-prove-crypto-trading-legal:
+  ai_keyword: cryptocurrency-transaction-legality
+  ai_keyword_simple: cryptocurrency-transaction
+  fallback_keyword: cryptocurrency-blockchain
+  title: 如何证明加密货币交易的合法性？
+how-to-prove-innocence-fraud-account:
+  ai_keyword: frozen-account-defense
+  ai_keyword_simple: frozen-account
+  fallback_keyword: cryptocurrency-blockchain
+  title: 涉诈账户被冻结，如何证明清白？
+is-money-safe-when-exchange-frozen:
+  ai_keyword: frozen-exchange-account-safety
+  ai_keyword_simple: frozen-exchange
+  fallback_keyword: identity-verification-security
+  title: 交易所账户被冻结，资金安全吗？
+need-lawyer-for-frozen-card:
+  ai_keyword: frozen-bank-account-lawyer
+  ai_keyword_simple: frozen-bank
+  fallback_keyword: cryptocurrency-blockchain
+  title: 银行卡被冻结，需要找律师吗？
+quick-handle-dirty-money-frozen-funds:
+  ai_keyword: frozen-funds-emergency
+  ai_keyword_simple: frozen-funds
+  fallback_keyword: cryptocurrency-blockchain
+  title: 收到黑钱，资金被冻结，如何快速处理？
+rebate-talk-guide:
+  ai_keyword: cryptocurrency-trading-rebates
+  ai_keyword_simple: cryptocurrency-trading
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 交易所手续费怎么省：一听就懂的返佣指南
+binance-fee-discount-trap:
+  ai_keyword: binance-fee-rebate-scam
+  ai_keyword_simple: binance-fee
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 币安手续费“返佣”圈的话术骗局解析
+how-to-get-exchange-rebates:
+  ai_keyword: exchange-rebate-guide
+  ai_keyword_simple: exchange-rebate
+  fallback_keyword: cryptocurrency-exchange-trading
+  title: 新手指南：如何通过交易所获得返佣（含 App 填邀请码与专属链接）

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "注册前为什么一定要写邀请码？一文看懂"
+title: 注册前为什么一定要写邀请码？一文看懂
 categories: 注册前须知
 date: 2025-01-23
-tags: [注册, 邀请码, 返佣, 手续费]
-permalink: /why-invite-code/
+tags:
+- 注册
+- 邀请码
+- 返佣
+- 手续费
+permalink: "/why-invite-code/"
 description: 用最短的文字解释邀请码的重要性与常见坑，如何正确填写与核验。
+image: https://images.unsplash.com/photo-1618069416986-eb1677ba3cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxyZWZlcnJhbC1jb2RlLXJlZ2lzdHJhdGlvbnxlbnwwfDB8fHwxNzU3MzE5NDE1fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: black and white printer paper
+image_photographer: Brett Jordan
+image_photographer_url: https://unsplash.com/@brett_jordan
 ---
-
 这篇讲清：为什么要填邀请码 `fangeiwo`、怎么填、如何确认返佣生效。
 
 用大白话说

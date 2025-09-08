@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "什么是实名（KYC）？为什么必须做人脸和证件？"
+title: 什么是实名（KYC）？为什么必须做人脸和证件？
 categories: 注册前须知
 date: 2025-01-24
-tags: [KYC, 实名, 人脸, 合规]
-permalink: /what-is-kyc/
+tags:
+- KYC
+- 实名
+- 人脸
+- 合规
+permalink: "/what-is-kyc/"
 description: 极简解释KYC的必要性、通过关键点与失败常见原因。
+image: https://images.unsplash.com/photo-1687580712188-b15f16b1f2d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwzfHxreWMtdmVyaWZpY2F0aW9uLXByb2Nlc3N8ZW58MHwwfHx8MTc1NzMxOTQxOHww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a close up of a sign with an arrow
+image_photographer: Jackie Alexander
+image_photographer_url: https://unsplash.com/@jac_kie_co
 ---
-
 这篇讲清：KYC 是什么、为什么必须做、怎么做更容易一次通过。
 
 用大白话说

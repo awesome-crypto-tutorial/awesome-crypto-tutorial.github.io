@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "转账转错账号/金额了怎么办（买入USDT时）"
+title: 转账转错账号/金额了怎么办（买入USDT时）
 categories: 交易入门
 date: 2025-02-07
-tags: [充值, 转错, 法币]
-permalink: /wrong-deposit/
+tags:
+- 充值
+- 转错
+- 法币
+permalink: "/wrong-deposit/"
 description: 转错收款人、填错金额、备注不符，先别慌，立刻收集证据并联系客服协助。
+image: https://images.unsplash.com/photo-1647173873066-ec57892412fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwxfHx3cm9uZy11c2R0LXRyYW5zZmVyLXNvbHV0aW9ufGVufDB8MHx8fDE3NTczMTk0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a traffic light sitting on top of a power line
+image_photographer: Michael Pointner
+image_photographer_url: https://unsplash.com/@pino_rumbero
 ---
-
 用大白话说
 人都会手滑。第一时间把转账回单、订单号、聊天记录准备好，联系平台客服，按流程处理。
 

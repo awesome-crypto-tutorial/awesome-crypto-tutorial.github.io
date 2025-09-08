@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "虚拟货币在中国合法吗？简单告诉你答案"
+title: 虚拟货币在中国合法吗？简单告诉你答案
 categories: 法律政策
 date: 2025-01-15
-tags: [虚拟货币, 加密货币, 法律政策, 中国, 数字货币, 监管, 合规]
-permalink: /cryptocurrency-legal-status-china/
+tags:
+- 虚拟货币
+- 加密货币
+- 法律政策
+- 中国
+- 数字货币
+- 监管
+- 合规
+permalink: "/cryptocurrency-legal-status-china/"
 description: 简单明了地告诉你虚拟货币在中国的法律地位，包括什么能做、什么不能做，帮助新手了解基本风险。
+image: https://images.unsplash.com/photo-1597006372162-848bbbe84b99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxjcnlwdG9jdXJyZW5jeS1yZWd1bGF0aW9uLWNoaW5hfGVufDB8MHx8fDE3NTczMTkzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: city skyline during night time
+image_photographer: Francisco Kemeny
+image_photographer_url: https://unsplash.com/@franciscokemeny
 ---
-
 很多朋友问：虚拟货币在中国到底合不合法？今天用最简单的话告诉你。
 
 ## 简单来说：个人持有不违法，但风险很大

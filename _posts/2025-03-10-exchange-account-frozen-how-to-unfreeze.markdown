@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "交易所账户被冻结，如何申请解冻？"
+title: 交易所账户被冻结，如何申请解冻？
 categories: 交易所风控
 date: 2025-03-10
-tags: [交易所, 账户冻结, 解冻, 申请]
-permalink: /exchange-account-frozen-how-to-unfreeze/
+tags:
+- 交易所
+- 账户冻结
+- 解冻
+- 申请
+permalink: "/exchange-account-frozen-how-to-unfreeze/"
 description: 交易所账户被冻结后的解冻申请指南，包括解冻流程、所需材料、处理时间等关键信息。
+image: https://picsum.photos/seed/exchangeac/800/400
+image_alt: 交易所账户被冻结，如何申请解冻？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 交易所账户被冻结后，要主动联系客服，提供相关材料，配合调查。大部分情况下1-7天能解冻，复杂情况可能需要1-3个月。
 

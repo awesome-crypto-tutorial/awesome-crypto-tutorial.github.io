@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "为什么银行会限制非柜面交易？"
+title: 为什么银行会限制非柜面交易？
 categories: 非柜面限制
 date: 2025-03-16
-tags: [银行, 非柜面, 限制, 原因]
-permalink: /why-bank-restrict-non-counter/
+tags:
+- 银行
+- 非柜面
+- 限制
+- 原因
+permalink: "/why-bank-restrict-non-counter/"
 description: 银行限制非柜面交易的原因分析，包括风控要求、合规要求、风险防范等关键因素。
+image: https://picsum.photos/seed/banktransa/800/400
+image_alt: 为什么银行会限制非柜面交易？ - 配图
+image_photographer: Placeholder
+image_photographer_url: ''
 ---
-
 用大白话说
 银行限制非柜面交易主要是为了风控和合规，防止账户被滥用、洗钱、诈骗等。这是银行保护客户资金安全和满足监管要求的正常措施。
 
