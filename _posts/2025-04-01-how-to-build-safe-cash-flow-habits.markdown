@@ -10,10 +10,10 @@ tags:
 - 最佳实践
 permalink: "/how-to-build-safe-cash-flow-habits/"
 description: 建立安全出入金习惯的指南，包括日常操作规范、风险控制、最佳实践等。
-image: https://picsum.photos/seed/securefund/800/400
-image_alt: 如何建立安全的出入金习惯？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1523629619140-ee5b56cb3b23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxzZWN1cmUtZnVuZHMtdHJhbnNmZXItaGFiaXRzfGVufDB8MHx8fDE3NTczMjIzMjV8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: coins on gray surface
+image_photographer: Rubidium Beach
+image_photographer_url: https://unsplash.com/@steve_j
 ---
 用大白话说
 建立安全的出入金习惯很重要，包括选择正规平台、控制交易金额、保留交易记录、定期检查账户等。好习惯能避免大部分风险，保护资金安全。记住：习惯决定安全，细节决定成败。

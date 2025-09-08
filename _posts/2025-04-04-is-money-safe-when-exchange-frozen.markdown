@@ -10,10 +10,10 @@ tags:
 - 处理
 permalink: "/is-money-safe-when-exchange-frozen/"
 description: 交易所账户被冻结后资金安全性分析，包括资金保护、处理流程、注意事项等。
-image: https://picsum.photos/seed/frozenexch/800/400
-image_alt: 交易所账户被冻结，资金安全吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1638293223622-6f460696e57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmcm96ZW4tZXhjaGFuZ2UtYWNjb3VudC1zYWZldHl8ZW58MHwwfHx8MTc1NzMyMjMzNHww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a close up of a piece of wood with snow on it
+image_photographer: Raimond Klavins
+image_photographer_url: https://unsplash.com/@raimondklavins
 ---
 用大白话说
 交易所账户被冻结，资金一般是安全的，但要注意保护。冻结期间资金不能使用，但不会被盗取。关键是要配合调查，提供证据，尽快解冻。记住：资金安全，但需要配合处理。

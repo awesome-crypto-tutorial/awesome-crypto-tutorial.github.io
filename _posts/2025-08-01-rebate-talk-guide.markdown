@@ -13,10 +13,10 @@ tags:
 - 新手教学
 permalink: "/rebate-talk-guide/"
 pinned: true
-image: https://picsum.photos/seed/cryptocurr/800/400
-image_alt: 交易所手续费怎么省：一听就懂的返佣指南 - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwyfHxjcnlwdG9jdXJyZW5jeS10cmFkaW5nLXJlYmF0ZXN8ZW58MHwwfHx8MTc1NzMyMjM0M3ww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a close up of a line with a blue background
+image_photographer: Austin Hervias
+image_photographer_url: https://unsplash.com/@ahervias77
 ---
 嘿，问你个问题——你知道在加密货币交易所，比如币安、欧易，你实际支付的交易手续费大概是多少吗？
 

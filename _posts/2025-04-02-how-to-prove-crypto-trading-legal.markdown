@@ -10,10 +10,10 @@ tags:
 - 法律
 permalink: "/how-to-prove-crypto-trading-legal/"
 description: 证明加密货币交易合法性的方法，包括证据收集、法律依据、证明策略等。
-image: https://picsum.photos/seed/cryptocurr/800/400
-image_alt: 如何证明加密货币交易的合法性？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1602272367965-c762564d2932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxjcnlwdG9jdXJyZW5jeS10cmFuc2FjdGlvbi1sZWdhbGl0eXxlbnwwfDB8fHwxNzU3MzIyMzI4fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: brown and white tribal print textile
+image_photographer: Elena Mozhvilo
+image_photographer_url: https://unsplash.com/@miracleday
 ---
 用大白话说
 证明加密货币交易合法性需要收集完整证据，包括交易记录、资金来源证明、交易目的说明等。关键是要证明交易是合法的，没有参与违法活动。记住：证据越完整，证明越有力。

@@ -10,10 +10,10 @@ tags:
 - 流程
 permalink: "/bank-card-unfreeze-process/"
 description: 银行卡解冻的详细流程和所需材料清单，包括银行风控解冻和公安司法解冻的不同处理方式。
-image: https://picsum.photos/seed/bankcardun/800/400
-image_alt: 银行卡解冻需要什么材料？流程是怎样的？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1589758438368-0ad531db3366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxiYW5rLWNhcmQtdW5mcmVlemluZy1wcm9jZXNzfGVufDB8MHx8fDE3NTczMjIyNDN8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: white and blue magnetic card
+image_photographer: Avery Evans
+image_photographer_url: https://unsplash.com/@averye457
 ---
 用大白话说
 银行卡解冻需要准备身份证、银行卡、交易记录等材料，到银行填写申请表，配合调查，等待审核。银行风控解冻相对简单，公安解冻比较复杂。

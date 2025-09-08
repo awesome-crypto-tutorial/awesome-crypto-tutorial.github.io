@@ -10,10 +10,10 @@ tags:
 - 信用
 permalink: "/fraud-account-affect-credit/"
 description: 涉诈账户对个人征信的影响分析，包括影响范围、影响程度、恢复方法等关键信息。
-image: https://picsum.photos/seed/fraudaccou/800/400
-image_alt: 涉诈账户会影响征信吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1531190260877-c8d11eb5afaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmcmF1ZC1hY2NvdW50LWNyZWRpdC1pbXBhY3R8ZW58MHwwfHx8MTc1NzMyMjI4Nnww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: brown leather bifold wallet on table
+image_photographer: Two Paddles Axe and Leatherwork
+image_photographer_url: https://unsplash.com/@twopaddles
 ---
 用大白话说
 涉诈账户可能会影响征信，但影响程度取决于具体情况。被误标记影响较小，确实涉诈影响较大。及时处理，证明清白，大多数情况下征信可以恢复。

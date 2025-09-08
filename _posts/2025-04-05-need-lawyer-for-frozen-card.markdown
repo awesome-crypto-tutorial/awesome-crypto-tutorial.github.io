@@ -10,10 +10,10 @@ tags:
 - 法律帮助
 permalink: "/need-lawyer-for-frozen-card/"
 description: 银行卡被冻结是否需要找律师的分析，包括什么情况下需要律师、如何选择律师、律师的作用等。
-image: https://picsum.photos/seed/frozenbank/800/400
-image_alt: 银行卡被冻结，需要找律师吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1528747008803-f9f5cc8f1a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwxfHxmcm96ZW4tYmFuay1hY2NvdW50LWxhd3llcnxlbnwwfDB8fHwxNzU3MzIyMzM3fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: brown wooden scrable
+image_photographer: Melinda Gimpel
+image_photographer_url: https://unsplash.com/@melindagimpel
 ---
 用大白话说
 银行卡被冻结不一定需要找律师，要看具体情况。简单问题可以自己处理，复杂问题建议找律师。律师能提供专业法律建议，保护你的权益，但也要考虑成本。记住：简单问题自己处理，复杂问题找专业帮助。

@@ -10,10 +10,10 @@ tags:
 - 处理
 permalink: "/how-to-prove-innocence-fraud-account/"
 description: 涉诈账户被冻结后证明清白的方法，包括证据收集、处理流程、注意事项等。
-image: https://picsum.photos/seed/frozenacco/800/400
-image_alt: 涉诈账户被冻结，如何证明清白？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1663064912307-dd42fd2e6f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmcm96ZW4tYWNjb3VudC1kZWZlbnNlfGVufDB8MHx8fDE3NTczMjIzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a large rock in the water
+image_photographer: Sourav Sharma
+image_photographer_url: https://unsplash.com/@morningstarss
 ---
 用大白话说
 涉诈账户被冻结不要慌，立即停止交易，收集证据证明清白。关键是要证明自己不知情、没有参与、没有获利。配合调查，提供完整证据，大多数情况下都能证明清白。记住：清白不怕调查，证据证明一切。

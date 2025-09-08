@@ -10,10 +10,10 @@ tags:
 - 选择
 permalink: "/how-to-choose-safe-cash-methods/"
 description: 安全出入金方式的选择指南，包括平台选择、商家选择、风险控制等关键要素。
-image: https://picsum.photos/seed/securecryp/800/400
-image_alt: 如何选择安全的出入金方式？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1653289755850-fcdfb903d691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxzZWN1cmUtY3J5cHRvLWZpYXQtZXhjaGFuZ2V8ZW58MHwwfHx8MTc1NzMyMjI1N3ww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a close up of a typewriter with a paper on it
+image_photographer: Markus Winkler
+image_photographer_url: https://unsplash.com/@markuswinkler
 ---
 用大白话说
 选择安全的出入金方式要看平台资质、商家信誉、交易保障等。选择知名平台，有保证金保障的商家，实名认证的，大多数情况下都安全。

@@ -10,10 +10,10 @@ tags:
 - 合规
 permalink: "/how-long-to-keep-cash-flow-records/"
 description: 出入金记录保存时间指南，包括保存期限、保存方式、重要性等关键信息。
-image: https://picsum.photos/seed/financialr/800/400
-image_alt: 出入金记录需要保存多久？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1625121035765-f71013da3514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmaW5hbmNpYWwtcmVjb3Jkcy1yZXRlbnRpb24tY29tcGxpYW5jZXxlbnwwfDB8fHwxNzU3MzIyMzIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: brown wooden blocks on white surface
+image_photographer: Brett Jordan
+image_photographer_url: https://unsplash.com/@brett_jordan
 ---
 用大白话说
 出入金记录建议保存5年以上，电子记录和纸质记录都要有，定期备份重要记录。这些记录是证明交易合法性的重要证据，遇到问题时能保护自己。记住：记录越完整，保护越有力。

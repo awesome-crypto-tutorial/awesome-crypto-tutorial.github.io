@@ -247,9 +247,9 @@ class PostImageGenerator
       end
       
       puts "Processing #{index + 1}/#{posts.length}: #{File.basename(post_file)}"
-      if index <= 51
-        next
-      end
+      # if index <= 51
+      #   next
+      # end
       image_info = generate_image_for_post(post_file)
       if image_info
         results << {

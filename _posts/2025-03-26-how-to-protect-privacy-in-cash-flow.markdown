@@ -10,10 +10,10 @@ tags:
 - 安全
 permalink: "/how-to-protect-privacy-in-cash-flow/"
 description: 出入金时保护个人隐私的方法和技巧，包括信息保护、隐私设置、安全措施等关键信息。
-image: https://picsum.photos/seed/privacypro/800/400
-image_alt: 出入金时如何保护个人隐私？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1459347268516-3ed71100e718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw1fHxwcml2YWN5LXByb3RlY3Rpb24tdHJhbnNhY3Rpb24tc2VjdXJpdHl8ZW58MHwwfHx8MTc1NzMyMjMwOHww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: private signage door
+image_photographer: Dayne Topkin
+image_photographer_url: https://unsplash.com/@dtopkin1
 ---
 用大白话说
 出入金时要保护个人隐私，不要泄露真实姓名、地址、电话等敏感信息。使用化名、虚拟地址、临时电话等方式保护隐私，但要确保能正常交易。

@@ -10,10 +10,10 @@ tags:
 - 处理
 permalink: "/urgent-money-need-with-frozen-card/"
 description: 银行卡被冻结后紧急用钱的处理方法，包括应急方案、替代方案、求助渠道等关键信息。
-image: https://picsum.photos/seed/frozenbank/800/400
-image_alt: 银行卡被冻结，急需用钱怎么办？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1637021536303-dc8e231c0383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwyfHxmcm96ZW4tYmFuay1jYXJkLWVtZXJnZW5jeXxlbnwwfDB8fHwxNzU3MzIyMjYzfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a hand holding a credit card and a cell phone
+image_photographer: Nathana Rebouças
+image_photographer_url: https://unsplash.com/@nathanareboucas
 ---
 用大白话说
 银行卡被冻结急需用钱，可以用其他银行卡、现金、信用卡、亲友帮助等方式应急。最重要的是提前准备，多张银行卡、应急现金都是必要的。

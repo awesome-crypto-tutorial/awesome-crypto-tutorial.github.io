@@ -10,10 +10,10 @@ tags:
 - 风控
 permalink: "/exchange-asks-source-of-funds/"
 description: 交易所要求提供资金来源证明的处理方法，包括所需材料、提供方式、注意事项等关键信息。
-image: https://picsum.photos/seed/sourceoffu/800/400
-image_alt: 交易所要求提供资金来源证明，怎么办？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1587680059504-1e34c01112bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxzb3VyY2Utb2YtZnVuZHMtcHJvb2Z8ZW58MHwwfHx8MTc1NzMyMjMwMHww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: text on gray concrete floor
+image_photographer: George Pagan III
+image_photographer_url: https://unsplash.com/@gpthree
 ---
 用大白话说
 交易所要求提供资金来源证明是正常的风控措施，需要提供收入证明、银行流水、交易记录等材料。如实提供，配合调查，大多数情况下都能通过审核。

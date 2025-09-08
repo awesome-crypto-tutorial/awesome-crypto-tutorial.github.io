@@ -14,10 +14,10 @@ tags:
 - 教程
 permalink: "/how-to-get-exchange-rebates/"
 pinned: true
-image: https://picsum.photos/seed/exchangere/800/400
-image_alt: 新手指南：如何通过交易所获得返佣（含 App 填邀请码与专属链接） - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1629253886611-8f0b48f0bee9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxleGNoYW5nZS1yZWJhdGUtZ3VpZGV8ZW58MHwwfHx8MTc1NzMyMjM0OHww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: gold and silver round coin
+image_photographer: Kanchanara
+image_photographer_url: https://unsplash.com/@kanchanara
 ---
 本文讲清“如何合规拿到交易所返佣”的完整流程，并分别给出币安（Binance）、欧易（OKX）、Gate.io（芝麻开门）的两种注册方式：
 - 1) 在 App 注册时填写推荐人邀请码 `fangeiwo`

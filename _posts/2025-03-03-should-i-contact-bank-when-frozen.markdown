@@ -10,10 +10,10 @@ tags:
 - 处理
 permalink: "/should-i-contact-bank-when-frozen/"
 description: 银行卡被冻结后是否需要主动联系银行的详细指南，包括联系时机、沟通技巧、准备材料等关键要素。
-image: https://picsum.photos/seed/frozenbank/800/400
-image_alt: 银行卡被冻结，需要主动联系银行吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1726137570000-70ae29f0ba01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmcm96ZW4tYmFuay1jYXJkLWFzc2lzdGFuY2V8ZW58MHwwfHx8MTc1NzMyMjI0MHww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: A hand holding a credit card next to a cell phone
+image_photographer: SumUp
+image_photographer_url: https://unsplash.com/@sumup
 ---
 用大白话说
 银行卡被冻结后，建议主动联系银行了解情况。主动联系比被动等待要好，能更快解决问题，也能表明你的配合态度。

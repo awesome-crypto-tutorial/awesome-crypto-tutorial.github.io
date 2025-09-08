@@ -10,10 +10,10 @@ tags:
 - 风险
 permalink: "/is-crypto-trading-illegal/"
 description: 加密货币交易的法律风险分析，包括是否违法、可能的法律后果、合规建议等关键信息。
-image: https://picsum.photos/seed/cryptocurr/800/400
-image_alt: 买卖加密货币违法吗？会被抓吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1635840418908-772c54d7931f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxjcnlwdG9jdXJyZW5jeS1sZWdhbC1jb21wbGlhbmNlfGVufDB8MHx8fDE3NTczMjIyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a bit coin sitting on top of a padlock
+image_photographer: rc.xyz NFT gallery
+image_photographer_url: https://unsplash.com/@moneyphotos
 ---
 用大白话说
 买卖加密货币本身不违法，但要注意合规操作。不要参与洗钱、传销等违法活动，选择正规平台，保留交易记录，大多数情况下都没问题。

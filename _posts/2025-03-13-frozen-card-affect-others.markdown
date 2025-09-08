@@ -10,10 +10,10 @@ tags:
 - 其他账户
 permalink: "/frozen-card-affect-others/"
 description: 银行卡被冻结对其他银行卡的影响分析，包括影响范围、风险传播、预防措施等关键信息。
-image: https://picsum.photos/seed/frozenbank/800/400
-image_alt: 银行卡被冻结，会影响其他银行卡吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1637021536303-dc8e231c0383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwxfHxmcm96ZW4tYmFuay1jYXJkLWltcGFjdHxlbnwwfDB8fHwxNzU3MzIyMjY5fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a hand holding a credit card and a cell phone
+image_photographer: Nathana Rebouças
+image_photographer_url: https://unsplash.com/@nathanareboucas
 ---
 用大白话说
 银行卡被冻结一般不会影响其他银行卡，但如果是严重违法案件，可能会影响所有关联账户。银行风控冻结影响较小，公安冻结影响较大。

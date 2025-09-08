@@ -10,10 +10,10 @@ tags:
 - 处理
 permalink: "/can-fraud-account-be-unblocked/"
 description: 银行卡被标记为涉诈账户后的解封可能性分析，包括解封条件、处理流程、时间预期等关键信息。
-image: https://picsum.photos/seed/bankfrauda/800/400
-image_alt: 银行卡被标记为涉诈账户，还能解封吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwxfHxiYW5rLWZyYXVkLWFjY291bnQtdW5ibG9ja3xlbnwwfDB8fHwxNzU3MzIyMjgzfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a bank sign lit up in the dark
+image_photographer: "POURIA \U0001F98B"
+image_photographer_url: https://unsplash.com/@poeti8
 ---
 用大白话说
 银行卡被标记为涉诈账户后，如果证明自己不是涉诈，配合调查，提供材料，大多数情况下都能解封。但需要时间，可能需要1-6个月。

@@ -10,10 +10,10 @@ tags:
 - 正常
 permalink: "/how-to-restore-non-counter-access/"
 description: 银行卡非柜面限制恢复正常的方法，包括申请流程、所需材料、处理时间等关键信息。
-image: https://picsum.photos/seed/bankcardre/800/400
-image_alt: 银行卡非柜面限制，如何恢复正常？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1430276084627-789fe55a6da0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxiYW5rLWNhcmQtcmVzdHJpY3Rpb24tcmVtb3ZhbHxlbnwwfDB8fHwxNzU3MzIyMjc0fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: closeup photo of American Express Business card on brown surface
+image_photographer: Ryan Born
+image_photographer_url: https://unsplash.com/@b0rno
 ---
 用大白话说
 银行卡非柜面限制要恢复正常，需要到银行网点申请，提供身份证、银行卡、交易记录等材料，配合银行调查，大多数情况下1-30天能恢复。

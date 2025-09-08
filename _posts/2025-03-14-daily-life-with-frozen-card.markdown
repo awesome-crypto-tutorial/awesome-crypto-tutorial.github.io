@@ -10,10 +10,10 @@ tags:
 - 影响
 permalink: "/daily-life-with-frozen-card/"
 description: 银行卡冻结期间对日常生活消费的影响分析，包括消费方式、替代方案、生活安排等关键信息。
-image: https://picsum.photos/seed/frozenbank/800/400
-image_alt: 银行卡冻结期间，还能正常生活消费吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1562235323-cd8f789b0445?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxmcm96ZW4tYmFuay1jYXJkLXNwZW5kaW5nfGVufDB8MHx8fDE3NTczMjIyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: two blue and black Halifax Cash Machines
+image_photographer: Ethan Wilkinson
+image_photographer_url: https://unsplash.com/@ethanrwilkinson
 ---
 用大白话说
 银行卡被冻结后，网银、手机银行、ATM都不能用，但可以用现金、其他银行卡、信用卡、移动支付等方式正常生活消费。

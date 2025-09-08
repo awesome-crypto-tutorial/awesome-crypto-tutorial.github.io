@@ -10,10 +10,10 @@ tags:
 - 风控
 permalink: "/exchange-trading-restricted-how-to-restore/"
 description: 交易所账户被限制交易后的恢复指南，包括限制原因分析、恢复步骤、注意事项等。
-image: https://picsum.photos/seed/exchangeac/800/400
-image_alt: 交易所账户被限制交易，如何恢复？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1626764002377-b1e1be095131?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw1fHxleGNoYW5nZS1hY2NvdW50LXJlc3RyaWN0aW9uLXJlY292ZXJ5fGVufDB8MHx8fDE3NTczMjIzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: silver and white star print heart shaped ornament
+image_photographer: Kanchanara
+image_photographer_url: https://unsplash.com/@kanchanara
 ---
 用大白话说
 交易所账户被限制交易不要慌，先搞清楚限制原因，然后按步骤申请恢复。大部分情况下都能恢复，关键是要配合审核，提供完整材料。记住：配合度越高，恢复越快。

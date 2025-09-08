@@ -10,10 +10,10 @@ tags:
 - 清白
 permalink: "/how-to-prove-not-fraud/"
 description: 如何证明自己不是涉诈的详细指南，包括所需材料、证明方法、申请流程等关键信息。
-image: https://picsum.photos/seed/fraudproof/800/400
-image_alt: 如何证明自己不是涉诈？需要什么材料？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1554224155-cfa08c2a758f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwzfHxmcmF1ZC1wcm9vZi1kb2N1bWVudHN8ZW58MHwwfHx8MTc1NzMyMjI4OXww&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: white printed paper
+image_photographer: Kelly Sikkema
+image_photographer_url: https://unsplash.com/@kellysikkema
 ---
 用大白话说
 证明自己不是涉诈需要提供身份证明、交易记录、资金来源证明等材料，详细说明交易情况，配合调查。最重要的是保留完整的交易记录和聊天记录。

@@ -10,10 +10,10 @@ tags:
 - 处理
 permalink: "/how-to-identify-dirty-money/"
 description: 黑钱识别技巧和可疑资金处理方法，包括识别特征、风险信号、处理流程等关键要素。
-image: https://picsum.photos/seed/suspicious/800/400
-image_alt: 如何识别黑钱？收到可疑资金怎么处理？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1509602742943-0bf62bd36166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxzdXNwaWNpb3VzLW1vbmV5LWlkZW50aWZpY2F0aW9ufGVufDB8MHx8fDE3NTczMjIyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: 10 Indian rupee banknote
+image_photographer: Ishant Mishra
+image_photographer_url: https://unsplash.com/@ishant_mishra54
 ---
 用大白话说
 黑钱就是违法犯罪得来的钱，识别黑钱要看交易价格、对方身份、交易方式等。收到可疑资金要立即停止交易，保留证据，主动说明情况。

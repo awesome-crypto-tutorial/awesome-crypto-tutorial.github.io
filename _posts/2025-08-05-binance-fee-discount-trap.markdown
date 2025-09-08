@@ -10,10 +10,10 @@ tags:
 - 防骗
 - 教程
 permalink: "/binance-fee-discount-trap/"
-image: https://picsum.photos/seed/binancefee/800/400
-image_alt: 币安手续费“返佣”圈的话术骗局解析 - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1579227114347-15d08fc37cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHwyfHxiaW5hbmNlLWZlZS1yZWJhdGUtc2NhbXxlbnwwfDB8fHwxNzU3MzIyMzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: person holding 100 US Dollar banknote
+image_photographer: 金 运
+image_photographer_url: https://unsplash.com/@jinyun
 ---
 这篇文章解释 2025-08-01 起币安返佣政策变化带来的影响，并给出防骗提示与合规获取返佣的路径，帮助你避免被“手续费折扣”话术误导。
 

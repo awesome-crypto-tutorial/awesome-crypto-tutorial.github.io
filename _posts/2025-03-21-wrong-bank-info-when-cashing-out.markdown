@@ -10,10 +10,10 @@ tags:
 - 处理
 permalink: "/wrong-bank-info-when-cashing-out/"
 description: 出金时银行卡信息填错后的处理方法，包括应急处理、联系客服、资金找回等关键信息。
-image: https://picsum.photos/seed/bankwithdr/800/400
-image_alt: 出金时银行卡信息填错了怎么办？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1545854027-ba3d36e136c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw1fHxiYW5rLXdpdGhkcmF3YWwtZXJyb3ItZml4fGVufDB8MHx8fDE3NTczMjIyOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: Wells Fargo ATM machines
+image_photographer: Erol Ahmed
+image_photographer_url: https://unsplash.com/@erol
 ---
 用大白话说
 出金时银行卡信息填错了，立即联系交易所客服，说明情况，提供正确信息。大部分情况下资金能找回，但需要时间处理。

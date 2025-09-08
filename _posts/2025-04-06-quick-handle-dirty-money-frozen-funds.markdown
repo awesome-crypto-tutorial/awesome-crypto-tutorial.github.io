@@ -10,10 +10,10 @@ tags:
 - 应急
 permalink: "/quick-handle-dirty-money-frozen-funds/"
 description: 收到黑钱后资金被冻结的快速处理指南，包括应急步骤、处理流程、注意事项等。
-image: https://picsum.photos/seed/frozenfund/800/400
-image_alt: 收到黑钱，资金被冻结，如何快速处理？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1692045470105-b92623e16e1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw1fHxmcm96ZW4tZnVuZHMtZW1lcmdlbmN5fGVufDB8MHx8fDE3NTczMjIzNDB8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: icicles hanging from a window in the snow
+image_photographer: Siera Chadwick
+image_photographer_url: https://unsplash.com/@scchadwick
 ---
 用大白话说
 收到黑钱资金被冻结，要立即停止交易，收集证据，主动说明情况。关键是要证明自己不知情、没有参与、没有获利。配合调查，提供完整证据，大多数情况下都能快速解决。记住：快速行动，配合调查，证据说话。

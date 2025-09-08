@@ -10,10 +10,10 @@ tags:
 - 银行卡
 permalink: "/normal-cashout-time/"
 description: 出金到银行卡的正常到账时间分析，包括不同情况下的到账时间、影响因素、异常处理等关键信息。
-image: https://picsum.photos/seed/bankwithdr/800/400
-image_alt: 出金到银行卡，多久到账算正常？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1656480897258-6353dea94577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxiYW5rLXdpdGhkcmF3YWwtcHJvY2Vzc2luZy10aW1lfGVufDB8MHx8fDE3NTczMjIyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a screen on a machine
+image_photographer: Erik Mclean
+image_photographer_url: https://unsplash.com/@introspectivedsgn
 ---
 用大白话说
 出金到银行卡的正常到账时间通常是1-24小时，具体时间取决于银行、金额、时间等因素。超过24小时没到账就要联系客服了。

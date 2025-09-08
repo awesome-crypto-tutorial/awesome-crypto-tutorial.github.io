@@ -10,10 +10,10 @@ tags:
 - 身份验证
 permalink: "/exchange-asks-additional-kyc-safe/"
 description: 交易所要求补充KYC材料的安全性分析，包括如何判断是否安全、如何保护个人信息、注意事项等。
-image: https://picsum.photos/seed/kycverific/800/400
-image_alt: 交易所要求补充KYC材料，安全吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1709141104691-b2434f07bc9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxreWMtdmVyaWZpY2F0aW9uLXNlY3VyaXR5fGVufDB8MHx8fDE3NTczMjIzMTR8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: a padlock is attached to a metal gate
+image_photographer: Matheus Vidal
+image_photographer_url: https://unsplash.com/@vidalmatheus
 ---
 用大白话说
 交易所要求补充KYC材料通常是正常的，但要注意安全。只通过官方渠道提交，不要给陌生人发材料，保护好个人信息。记住：安全第一，合规第二。

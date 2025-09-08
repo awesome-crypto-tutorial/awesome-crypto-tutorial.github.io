@@ -10,10 +10,10 @@ tags:
 - 微信
 permalink: "/non-counter-limit-affect-alipay-wechat/"
 description: 银行卡非柜面限制对支付宝微信支付的影响分析，包括影响范围、替代方案、解决方法等关键信息。
-image: https://picsum.photos/seed/bankcardre/800/400
-image_alt: 银行卡非柜面限制，影响支付宝微信吗？ - 配图
-image_photographer: Placeholder
-image_photographer_url: ''
+image: https://images.unsplash.com/photo-1430276084627-789fe55a6da0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDE0MTh8MHwxfHNlYXJjaHw2fHxiYW5rLWNhcmQtcmVzdHJpY3Rpb24tcGF5bWVudHxlbnwwfDB8fHwxNzU3MzIyMjgwfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_alt: closeup photo of American Express Business card on brown surface
+image_photographer: Ryan Born
+image_photographer_url: https://unsplash.com/@b0rno
 ---
 用大白话说
 银行卡非柜面限制后，支付宝微信无法绑定这张银行卡，但可以使用其他银行卡或余额支付。这是银行的风控措施，影响第三方支付绑定。
