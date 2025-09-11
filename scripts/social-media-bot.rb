@@ -2,6 +2,7 @@
 # 社交媒体自动发布机器人
 # 功能：从 awesome-crypto-tutorial 中提取文章，用 AI 生成适合 Twitter 和 Telegram 的内容，并自动发布
 
+require 'bundler/setup'
 require 'yaml'
 require 'fileutils'
 require 'net/http'
