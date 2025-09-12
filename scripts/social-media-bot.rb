@@ -233,7 +233,7 @@ class SocialMediaBot
         log("Tweet content truncated to fit 280 character limit", "WARN")
       end
 
-      log("Posting to Twitter: #{tweet_content")
+      log("Posting to Twitter: #{tweet_content}")
       
       # 上传图片（如果有）
       media_ids = nil
